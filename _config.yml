@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amit Singh"
 title_separator          : "-"
 name                     : &name "Amit Singh"
-description              : &description "M.Sc. student,<br> Neural and Cognitive Science,<br /> University of Hyderabad"
+description              : &description "M.Sc. student,Neural and Cognitive Science,University of Hyderabad"
 url                      : https://amits1ngh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amits1ngh/amits1ngh.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Amit Singh"
   avatar           : "profile.png"
-  bio              : "M.Sc. Student, Neural and Cognitive Sciences, University of Hyderabad"
+  bio              : "M.Sc. Student, <br>Neural and Cognitive Sciences,<br /><br> University of Hyderabad, India<br />"
   location         : "Hyderabad, India"
   employer         : 
   googlescholar    : #"https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : @akshitSngh
+  twitter          : "@akshitSngh"
   vine             :
   weibo            :
   xing             :
