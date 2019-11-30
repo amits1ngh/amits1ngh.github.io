@@ -37,7 +37,7 @@ Languages
 =========
 * German (Fluent Reading, Writing and Speaking)
 * English (Proficient)
-* Hindi 
+* Hindi (Native)
 
 Workshops Attended
 ======
