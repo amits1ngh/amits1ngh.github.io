@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,12 +22,10 @@ Education
 Work experience
 ======
 * Summer 2019: Research Intern
-  * International Institute of Information Technology, Hyderabad
-  * Project Title: Predictive Coding in Speech Processing
+  * International Institute of Information Technology, Hyderabad<br>Project Title: Predictive Coding in Speech Processing
 
 * June 2017 - Aug 2018: Translator Associate, German (Full Time)
-  * Alexa Operations, Amazon Development Center, Bangalore (India)
-  * Nature of Work: Sentiments Tagging, Translation - English to German and German to English
+  * Alexa Operations, Amazon Development Center, Bangalore (India)<br>Nature of Work: Sentiments Tagging, Translation - English to German and German to English
  
 Skills
 ======
@@ -37,9 +35,9 @@ Skills
 
 Languages
 =========
-• German (Fluent Reading, Writing and Speaking)
-• English (Proficient)
-• Hindi 
+* German (Fluent Reading, Writing and Speaking)
+* English (Proficient)
+* Hindi 
 
 Workshops Attended
 ======
@@ -59,8 +57,8 @@ Lab Experience
 
 Research Project 
 ================
-Translation Frequency constraints language non-selective activation under working memory load and task-demands.(Ongoing)
-In this study I ask, what are the additional constraints apart from the working memory which influences the unconscious parallel activation of the non-selective language in bilinguals.
+* Translation Frequency constraints language non-selective activation under working memory load and task-demands.(Ongoing)
+* In this study I ask, what are the additional constraints apart from the working memory which influences the unconscious parallel activation of the non-selective language in bilinguals.
   
 Positions of Responsibilities
 ======
