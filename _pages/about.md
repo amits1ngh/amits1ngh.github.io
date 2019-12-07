@@ -31,6 +31,6 @@ How to edit your site's GitHub repository
 ------
 
 
-For more info
+For more 
 ------
 
