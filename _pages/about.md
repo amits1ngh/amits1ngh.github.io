@@ -12,7 +12,7 @@ I am a master's degree student in Center for Neural and Cognitive Science, Unive
 **Research Interests**
 - Cognitive Control and Bilingualism : How the active selection of relevant information from knowledge system and inhibition of irrelevant information competing and cooccurring with the target simultaneously is achieved in bilinguals.
 
-- Working Memory constraint on language processing: How the three distinct phases of working memory; encoding, retention and retrieval blocks the irrelevant information by shutting down the task irrelevant regions in the brain. 
+- Working Memory constraint on language processing : How the three distinct phases of working memory; encoding, retention and retrieval blocks the irrelevant information by shutting down the task irrelevant regions in the brain. 
 
 
 
