@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a master's degree student in Center for Neural and Cognitive Science, University of Hyderabad. Currently, I am working on my master dissertation with Prof. Ramesh Kumar Mishra in Action Control and Cognition Lab. The broad aim of my investigation is to understand the cognitive and neural underpinnings of language comprehension at various linguistics levels. I use eye-tracking, psycholinguistic experimentaton and ERP paradigm to study cognitive and neural basis of language comprehension. 
+I am a master's degree student in Center for Neural and Cognitive Science, University of Hyderabad. My broad areas of investigation are Language and Attention. Currently, I am working on my master dissertation with Prof. Ramesh Kumar Mishra in Action Control and Cognition Lab. The aim of my study is to understand the cognitive and neural underpinnings of language comprehension at various linguistics levels. I use eye-tracking, psycholinguistic experimentaton and ERP paradigm to study cognitive and neural basis of language comprehension. 
 
 **Research Interests**
 - Cognitive Control and Bilingualism : How the active selection of relevant information from knowledge system and inhibition of irrelevant information competing and cooccurring with the target simultaneously is achieved in bilinguals.
