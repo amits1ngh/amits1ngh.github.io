@@ -7,30 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**About**
 
 
-
-Areas of research
-======
-
-
-Resources
-======
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
-
-**Markdown generator**
-
-
-How to edit your site's GitHub repository
-------
-
-
-For more 
-------
 
