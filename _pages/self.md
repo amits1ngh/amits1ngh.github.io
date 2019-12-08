@@ -3,35 +3,12 @@ layout: archive
 title: "**About**"
 permalink: /self/
 author_profile: true
+redirect from:
+       /self/
 ---
+I am a master's degree student in Center for Neural and Cognitive Science, University of Hyderabad. I completed my bachelors in German Language and Linguistics from Jawaharlal Nehru University, New Delhi. My broad areas of investigation are Language and Attention. Currently, I am working on my master dissertation with [Prof. Ramesh Kumar Mishra](https://rameshkumarmishra.wordpress.com/) in [Action Control and Cognition Lab](https://actioncontrolcognitionlaboratory.wordpress.com/). The aim of my study is to understand the cognitive and neural underpinnings of language comprehension at various linguistics levels. I use eye-tracking, psycholinguistic experimentaton and ERP paradigm to study the aforementioned themes. 
 
-{% include base_path %}
+**Research Interests**
+- Cognitive Control and Bilingualism : How the active suppression of non-selective task irrelevant information and selection of relevant information is simultaneously achieved in high proficient Hindi-English bilinguals.
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
-
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+- Working Memory constraint on language processing : What is the role of Working Memory in modulating top down control and facilitation of goal relevant information selection. 
