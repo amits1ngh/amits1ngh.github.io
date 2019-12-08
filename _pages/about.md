@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "**About**"
 excerpt: "Welcome - Amit Singh"
 author_profile: true
