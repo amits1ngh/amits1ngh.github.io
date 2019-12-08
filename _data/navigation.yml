@@ -2,7 +2,7 @@
 main:
  
 
-  - title: "CV"
+  - \, \, title: "CV"
     url: /cv/       
     
   - title: "Projects"
