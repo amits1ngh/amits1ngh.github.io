@@ -4,17 +4,20 @@ main:
   - title : ""
     url   : //
     
-  - title: "CV"
-    url: /cv/       
+  - title : ""
+    url   : //
+    
+        - title: "CV"
+          url: /cv/       
     
   - title: "Projects"
     url: /portfolio/
     
 #   - title: "CV"
 #     url: /cv/
+  
+  - title: "Lab Work"
+    url: /publications/
     
   - title: "Contact"
     url: /markdown/
-    
-  - title: "Lab Work"
-    url: /publications/
