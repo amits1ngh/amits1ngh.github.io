@@ -11,7 +11,7 @@ main:
     url   : //
     
   - title : "About"
-    url   : /about/
+    url   : /self/
     
   - title: "CV"
     url: /cv/       
