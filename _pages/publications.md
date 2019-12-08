@@ -1,15 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "**Lab Works"
 permalink: /publications/
 author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+ Action Control and Cognition Lab<u><a href="{{https://actioncontrolcognitionlaboratory.wordpress.com/}}"></a>.</u>
 {% endif %}
 
-{% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
