@@ -1,8 +1,10 @@
 # main links links
 main:
  
-
-  - \, \, title: "CV"
+  - title : ""
+    url   : //
+    
+  - title: "CV"
     url: /cv/       
     
   - title: "Projects"
