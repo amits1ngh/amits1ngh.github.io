@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "**Lab Works**"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
  
-Action Control and Cognition Lab<u><a href="{{https://actioncontrolcognitionlaboratory.wordpress.com/}}"></a>.</u>
+Visit [Action Control and Cognition Lab] (https://actioncontrolcognitionlaboratory.wordpress.com/)
 
