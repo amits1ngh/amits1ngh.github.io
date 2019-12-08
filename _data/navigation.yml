@@ -1,7 +1,6 @@
 # main links links
 main:
-  - title: "Lab Work"
-    url: /publications/
+ 
 
   - title: "CV"
     url: /cv/       
@@ -14,3 +13,6 @@ main:
     
   - title: "Contact"
     url: /markdown/
+    
+  - title: "Lab Work"
+    url: /publications/
