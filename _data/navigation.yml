@@ -4,8 +4,8 @@ main:
   - title : ""
     url   : //
     
-  - title : ""
-    url   : //
+  - title : "About"
+    url   : /about/
     
   - title: "CV"
     url: /cv/       
