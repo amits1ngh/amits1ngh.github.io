@@ -11,13 +11,13 @@ main:
     url: /cv/       
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
     
 #   - title: "CV"
 #     url: /cv/
   
   - title: "Lab Work"
-    url: /publications/
+    url: /lab/
     
   - title: "Contact"
-    url: /markdown/
+    url: /contact/
