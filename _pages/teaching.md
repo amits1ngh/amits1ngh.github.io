@@ -1,8 +1,13 @@
 ---
 permalink: /gallery/
-title: "Gallery"
+title: "**Gallery**"
 author_profile: true
 redirect_from: 
-  - "/gallery/"
+  - /md/
+  - /gallery.html
 ---
-hi
+
+Center for Neural and Cognitive Sciences<br>
+University of Hyderabad<br>
+Hyderabad, India<br>
+Email: amitcogsci [at] gmail.com
