@@ -8,5 +8,5 @@ redirect_from:
 ---
 Some of my dance videos you can find here: 
 
-[![Watch the video](https://imgur.com/gallery/QWBqAF9)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](new.jpg)](https://youtu.be/vt5fpE0bzSY)
 
