@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href="https://github.com/amits1ngh/amits1ngh.github.io/tree/master/files">Click here to download Curriculum Vitae [PDF]</a>
+<a href="https://github.com/amits1ngh/amits1ngh.github.io/blob/master/files/CV_Amit.pdf">Click here to download Curriculum Vitae [PDF]</a>
