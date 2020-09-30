@@ -16,14 +16,14 @@ main:
   - title: "CV"
     url: /cv/       
     
-  - title: "Projects"
+  - title: "Work"
     url: /projects/
     
 #   - title: "CV"
 #     url: /cv/
   
-  - title: "Lab Work"
-    url: /lab/
+#   - title: "Lab Work"
+#     url: /lab/
     
   - title: "Contact"
     url: /contact/
