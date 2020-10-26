@@ -11,7 +11,7 @@ I am a master's degree student of Neural and Cognitive Science, University of Hy
 
 
 **Research Interests**
-- Visual working memory and attention: The dynamic relationship between working memory and attentional system. I ask, whether working memory guides attentional allocation in a top-down manner proactively. I am also trying to investigate the nature of representations in working memory which modulates the goal directed behaviour.
+- Visual working memory and attention: The dynamic relationship between working memory and attentional system. I ask, whether working memory guides attentional allocation in a top-down manner proactively. I am also interested to investigate the nature of representations in working memory which modulates the goal directed behaviour.
 
 - Language, Vision and Attention: The nature of multimodal correspondence between language, vision and attention. 
 
