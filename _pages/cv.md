@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href ="/files/cv_Amit.pdf" type="application/pdf">Click here to download Curriculum Vitae [PDF]</a>
+<a href ="/files/cv_Amit_.pdf" type="application/pdf">Click here to download Curriculum Vitae [PDF]</a>
