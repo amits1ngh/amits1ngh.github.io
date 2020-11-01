@@ -16,7 +16,7 @@ main:
   - title: "CV"
     url: /cv/       
     
-  - title: "Work"
+  - title: "Publications"
     url: /projects/
     
 #   - title: "CV"
@@ -28,6 +28,6 @@ main:
   - title: "Contact"
     url: /contact/
     
-  - title: "Gallery"
+  - title: "Dance videos"
     url: /gallery/
     
