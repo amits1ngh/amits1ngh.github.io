@@ -24,8 +24,7 @@ Some of the questions I am interested to study are:
 
 Resources for Pattern Recognition in Matlab:
 
-```
-[Bayes Classifier](https://github.com/amits1ngh/Bayes_Classifier) 
-```
+* [Bayes Classifier](https://github.com/amits1ngh/Bayes_Classifier) 
+
 matlab codes for other pattern classification algorithms coming soon.. 
 
