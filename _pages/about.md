@@ -7,16 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a master's degree student of Neural and Cognitive Science, University of Hyderabad. My broad areas of investigation are Attention, Vision, Bilingualism and Cognitive Control. Currently, I am working on my master thesis under supervision of [Prof. Ramesh Kumar Mishra](https://rameshkumarmishra.wordpress.com/) in [Action Control and Cognition Lab](https://actioncontrolcognitionlaboratory.wordpress.com/). The aim of my study is to understand the cognitive and neural underpinnings of working memory and selective attention in high proficient Hindi-English bilinguals. I use eye-tracking and psycholinguistic experimentation to study the relationship between attention and language systems at various levels. 
+I hold and M.Sc. degree in Neural and Cognitive Science from University of Hyderabad. I completed my B.A.(Hons.) in German from JNU, New Delhi. My broad areas of investigation are Psycholinguistics, Bilingualism and Attention. I did my master's dissertation under supervision of [Prof. Ramesh Kumar Mishra](https://rameshkumarmishra.wordpress.com/) in [Action Control and Cognition Lab](https://actioncontrolcognitionlaboratory.wordpress.com/). The aim of my study is to understand the cognitive and neural underpinnings of working memory and selective attention in high proficient Hindi-English bilinguals. I use eye-tracking and psycholinguistic experimentation to study the relationship between attention and language systems at various levels. 
 
-
+Some of the questions I am interested to study are: 
 **Research Interests**
-- Visual working memory and attention: The dynamic relationship between working memory and attentional system. I ask, whether working memory guides attentional allocation in a top-down manner proactively. I am also interested to investigate the nature of representations in working memory which modulates the goal directed behaviour.
+* Bilingualism and Cognition : What is the nature of linguistic representations in bilingual mind? Are these representations emergent properties of a single or separate systems? And how these representations interact cross-linguistically at surface and deep-level in an online and offline task? And how bilingual brain gradually adapts to L2?
 
-- Language, Vision and Attention: The nature of multimodal correspondence between language, vision and attention. 
+* Visual working memory and attention: The dynamic relationship between working memory and attentional system. I ask, whether working memory guides attentional allocation in a top-down manner proactively. I am also interested to investigate the nature of representations in working memory which modulates the goal directed behaviour.
 
-- Cognitive Control and Bilingualism : I am investigating whether bilingualism influences executive function. 
+* Language, Vision and Attention: The nature of multimodal correspondence between language, vision and attention. 
 
- 
+* Cognitive Control and Bilingualism : I am investigating whether bilingualism influences executive function. 
 
+---
+
+Resources for Pattern Recognition in Matlab
+```
+Bayes Classifier(https://github.com/amits1ngh/Bayes_Classifier) 
+```
+matlab codes for other pattern classification algorithms coming soon.. 
 
