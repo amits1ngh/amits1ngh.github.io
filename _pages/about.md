@@ -22,7 +22,9 @@ Some of the questions I am interested to study are:
 * Cognitive Control and Bilingualism : I am investigating whether bilingualism influences executive function. 
 
 ---
+```
 #### Resources for Pattern Recognition in Matlab:
 * [Bayes Classifier](https://github.com/amits1ngh/Bayes_Classifier) 
-#### Codes for ML
+#### codes for ML
 * [Kmeans,SVM](https://github.com/amits1ngh/Python_UnsupervisedML)
+```
