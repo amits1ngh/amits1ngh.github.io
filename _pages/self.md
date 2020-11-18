@@ -6,6 +6,15 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
+---
+permalink: /
+title: "**About**"
+excerpt: "Welcome - Amit Singh"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 I hold an M.Sc. degree in Neural and Cognitive Science from University of Hyderabad. Before joining Cognitive Science I was a student of B.A.(Hons.) German in JNU, New Delhi. Currently, my broad areas of investigation are Psycholinguistics, Bilingualism and Attention. And I completed my master's dissertation under supervision of [Prof. Ramesh Kumar Mishra](https://rameshkumarmishra.wordpress.com/) in [Action Control and Cognition Lab](https://actioncontrolcognitionlaboratory.wordpress.com/). The aim of my study is to investigate the cognitive and neural underpinnings of working memory and selective attention in high proficient Hindi-English bilinguals. I use eye-tracking and psycholinguistic experimentation to study the relationship between attention and language systems at various levels in bilinguals and monolinguals. 
 
 ### Research Interests
@@ -23,4 +32,5 @@ Some of the questions I am interested to study are:
 ---
 #### Resources for Pattern Recognition in Matlab:
 * [Bayes Classifier](https://github.com/amits1ngh/Bayes_Classifier) 
+#### codes for ML
 * [Kmeans,SVM](https://github.com/amits1ngh/Python_UnsupervisedML)
