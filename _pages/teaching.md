@@ -11,7 +11,7 @@ Some of my dance videos you can find here:
 
 [![Click to watch]](https://vimeo.com/484570914)
 
-[![Click to watch](video1.jpg)](https://vimeo.com/484570372)
+[![Click to watch]](https://vimeo.com/484570372)
 
 [![Watch the video](video3.jpg)](https://vimeo.com/484573030)
 
