@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**Hello**"
+title: "**About me**"
 excerpt: "Welcome - Amit Singh"
 author_profile: true
 redirect_from: 

@@ -1,6 +1,6 @@
 ---
 permalink: /self/
-title: "Hello"
+title: "About me"
 author_profile: true
 redirect_from: 
   - "/nmp/"
