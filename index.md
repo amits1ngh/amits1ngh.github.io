@@ -28,7 +28,7 @@ What is the nature of two or more linguistic representations in bilingual mind? 
 Research in bilingualism provides a wide opportunity to study some of key questions in human cognition spanning from language learning, processing and pathology. Recent study suggest that bilingual experience induces general cognitive advantage, which can be administered using flankers and stroop. I am looking into the cultural and sociolinguistic factors which is responsible behind this phenomena and how Age of L2 Acquisition and social diveristy of langauge use modulate the cognitive control. Following on this theory, I am exploring whether the expeience can be quantified and modelled using any supervised or unsupervised machine learning, deep learning or network models. 
 
 3. Computational linguistics:
-Artificial Neural Network (ANN) provides a robust method to solve multi-class problems efficiently. I use multilingual corpus to extract feature vectors and compare it cross-linguistically to gain insight about the linguistic intrinsic feature at different liguistic levels, e.g. lexical, morphosyntactic, syntax, conceptual & semantics.
+Artificial Neural Network (ANN) provides a robust method to solve multi-class problems efficiently. Leveraging this advantage, I am trying to extract useful feature vectors from multilingual corpus and compare them cross-linguistically to gain insight about the linguistic intrinsic representations and processes at different liguistic levels, e.g. lexical, morphosyntactic, syntax, conceptual & semantics. Currently I am using unsupervised competitive network - Self organising maps based on Kohonen Network to visualise how concepts are organised in Hindi and English.  
 
 
 
@@ -36,7 +36,7 @@ Artificial Neural Network (ANN) provides a robust method to solve multi-class pr
 
 1. International Institute of Information Technology, Hyderabad
 
-Worked in Speech Signal Processing Lab, IIIT, Hyderabad. I was assigned an open source development project to code, develop, test and implement a Python and JavaScript based Speech Signal Application on Github. The application was developed to visualize spectral features of voiced and unvoiced speech sounds using Linear Predictive Coding algorithm.
+I have worked as summer intern in Speech Signal Processing Lab, IIIT, Hyderabad. During this internship programme, I was assigned an open source development project to code, develop, test and implement a Python and JavaScript based Speech Signal Application on Github. The application was developed to visualize spectral features of voiced and unvoiced speech sounds using Linear Predictive Coding algorithm.
 
 
 
@@ -60,7 +60,7 @@ Year | Course | University
 ## References
 
 * Dr. Priyada Shridhar Padhye: Assistant Professor, School of Language, Literature and Culture Studies, Jawaharlal Nehru University, New Delhi.
-* Prof. Ramesh Kumar Mishra: Parkes: Professor and Head, Center for Neural and Cognitive Sciences, University of Hyderabad, Hyderabad.
+* Prof. Ramesh Kumar Mishra: Professor and Head, Center for Neural and Cognitive Sciences, University of Hyderabad, Hyderabad.
 * Dr. Joby Joseph: Associate Professor, Center for Neural and Cognitive Sciences, University of Hyderabad, Hyderabad.
 
 ## Website
