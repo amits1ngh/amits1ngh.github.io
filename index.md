@@ -1,61 +1,67 @@
 ---
 layout: default
-title: Ankit Gupta
+title: Amit Singh
 ---
 
 ## About Me
 
-<img class="profile-picture" src="ankit.jpg">
+<img class="profile-picture" src="profile.jpg">
 
-I'm a Co-Founder of [Reverie Labs](http://www.reverielabs.com), which uses machine learning to accelerate drug discovery. 
+I'm a Research Assitant in [Center for Linguistic Science and Technology](https://www.iitg.ac.in), Indian Institute of Technology Guwahati.
 
-Previously, I was at Harvard University, where I earned a joint BA/MS in Computer Science. I graduated *magna cum laude* with highest honors, and was inducted into Phi Beta Kappa. In my final two years, I worked with Professor Alexander Rush in the [Harvard NLP group](http://nlp.seas.harvard.edu) on deep learning over sequential data. 
+Previously, I was at [University of Hyderabad](https://uohyd.ac.in) (Institution of Eminence), where I earned a M.Sc degree with distinction in Neural and Cognitive Science with a focus on Cognitive Science and psycholinguistics. In my final two semesters, I worked with Professor Ramesh Kumar Mishra in the [Action Control and Cognition Lab](https://rameshkumarmishra.wordpress.com) on my masters thesis investigating the effect of bilingual experience on language processing using eye-tracking methodology.
 
-For my thesis, I applied techniques from NLP to computational biology by using Dilated Convolutional Neural Networks to improve regulatory marker prediction on a whole-genome labeling task. This work was accepted to the ICML 2017 Workshop in Computational Biology, where I was also invited to give a talk, and received a speaker award and best poster award. I was co-advised by Dr. David Kelley, of the Broad Institute, for this work.
+I have completed my bachelor in German Language and Linguistics from School of langauge, literature and cultural studies, Jawaharlal Nehru University, New Delhi ([JNU](https://www.jnu.ac.in/sllcs-languagelab)) and gained full-time professional experience afterwards in the domain of corpus linguistics and translation in Alexa Operations, Amazon Development Center, Bangalore.
+
+
 
 ## Research Interests
 
-I am primarily interested in developing machine learning models that are robust to different problem domains. My existing research experiences have spanned a variety of machine learning domains, including bayesian inference and deep learning. I'm particularly interested in problem domains that pose unique data constraints. For example, genomics datasets tend to be much sparser and have longer-distance dependencies than comparable sequential datasets in natural language processing. I'm interested in understanding how these unique constraints limit the efficacy of existing models, and in building models that are robust to them. 
+Currently, I am interested in understanding and modelling the L1/L2 exposure in sequential and simultaneous bilinguals. My existing research interest lies in understanding the relationship between language experience and its consequences on mind, brain and language processing.
 
-## Publications
+Some of the questions I am investigating are - 
 
-1. Gupta, A. and Rush, A.M., 2017. Dilated Convolutions for Modeling Long-Distance Genomic Dependencies. International Conference of Machine Learning, Sydney, Australia. [[arXiv]](https://arxiv.org/abs/1710.01278) [[code]](https://github.com/harvardnlp/regulatory-prediction) [[Talk]](https://youtu.be/HmCecphEvQg)
+1. Language and Mind:
+What is the nature of two or more linguistic representations in bilingual mind? What are the domain general cognitive processes operate on those representattions? And how and when these representations interact cross-linguistically at surface and deep-level in an online and offline task?  I am trying to investigate some of these questions using Eye-tracking methodology and computational modelling.
 
-## Research, Academic, and Teaching Awards
+2. Bilingualism and Cognition: 
+Research in bilingualism provides a wide opportunity to study some of key questions in human cognition spanning from language learning, processing and pathology. Recent study suggest that bilingual experience induces general cognitive advantage, which can be administered using flankers and stroop. I am looking into the cultural and sociolinguistic factors which is responsible behind this phenomena and how Age of L2 Acquisition and social diveristy of langauge use modulate the cognitive control. Following on this theory, I am exploring whether the expeience can be quantified and modelled using any supervised or unsupervised machine learning, deep learning or network models. 
 
-1. Speaker Award, ICML 2017, Workshop on Computational Biology
-2. Best Poster Award, ICML 2017, Workshop on Computational Biology
-3. Phi Beta Kappa Honor Society Inductee, Harvard College, May 2017
-4. Derek Bok Award for Distinction in Teaching, Spring 2017 (CS 181)
-5. Derek Bok Award for Distinction in Teaching, Fall 2016 (CS 182)
-6. Derek Bok Award for Distinction in Teaching, Spring 2016 (CS 181)
-7. John Harvard Scholar (top 5% GPA)
+3. Computational linguistics:
+Artificial Neural Network (ANN) provides a robust method to solve multi-class problems efficiently. I use multilingual corpus to extract feature vectors and compare it cross-linguistically to gain insight about the linguistic intrinsic feature at different liguistic levels, e.g. lexical, morphosyntactic, syntax, conceptual & semantics.
 
-## Teaching 
 
-While I was a student at Harvard, I had the opportunity to be a teaching fellow for a variety of courses. This role involved helping to write problem sets, teaching weekly sections, holding office hours, leading course-wide review sessions, meeting students one-on-one and grading. I am grateful to have received the Derek Bok Award for Distinction in Teaching, given to teaching fellows with exemplary reviews from students.
 
-Year | Course | Professor
+## Internship
+
+1. International Institute of Information Technology, Hyderabad
+
+Worked in Speech Signal Processing Lab, IIIT, Hyderabad. I was assigned an open source development project to code, develop, test and implement a Python and JavaScript based Speech Signal Application on Github. The application was developed to visualize spectral features of voiced and unvoiced speech sounds using Linear Predictive Coding algorithm.
+
+
+
+## Resources
+1. Pattern Recognition in Matlab
+[Bayes Classifier](https://github.com/amits1ngh/Bayes_Classifier)
+2. Python Machine Learning [K-Means, SVM](https://github.com/amits1ngh/Python_UnsupervisedML)
+
+
+
+## Education
+
+Year | Course | University
 -----|------- | -----------
-2017 | CS 181: Machine Learning | Alexander Rush, David Parkes  
-2016 | CS 182: Artificial Intelligence | Scott Kuindersma
-2016 | CS 181: Machine Learning | Finale Doshi-Velez
-2014 | CS 50: Introduction to Computer Science | David Malan
+2020 | MSc Neural and Cognitive Science | University of Hyderabad 
+2017 | B.A. Honours in German Language and Linguistics| Jawaharlal Nehru University (JNU), New Delhi
+2014 | Certificate in German Language | University of Delhi
 
-## Projects
-<div>
-<ul>
-	{% for project in site.projects %}
-  	<li>{{ project.output }} </li>
-	{% endfor %}
-</ul>
-</div>
+
 
 ## References
 
-* Alexander "Sasha" Rush: Assistant Professor of Computer Science, Harvard University.
-* David Parkes: Area Dean for Computer Science, George F. Colony Professor of Computer Science, Harvard University.
-* Finale Doshi-Velez: Assistant Professor of Computer Science, Harvard University
+* Dr. Priyada Shridhar Padhye: Assistant Professor, School of Language, Literature and Culture Studies, Jawaharlal Nehru University, New Delhi.
+* Prof. Ramesh Kumar Mishra: Parkes: Professor and Head, Center for Neural and Cognitive Sciences, University of Hyderabad, Hyderabad.
+* Dr. Joby Joseph: Associate Professor, Center for Neural and Cognitive Sciences, University of Hyderabad, Hyderabad.
 
 ## Website
 This is based on jekyll website template. You can find the original template source code on [GitHub](https://github.com/bk2dcradle/researcher).

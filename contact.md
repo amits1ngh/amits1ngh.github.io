@@ -3,11 +3,10 @@ layout: default
 is_contact: true
 ---
 
-* Email: ankitgupta [at] alumni [dot] harvard [dot] edu
+* Email: amitcogsci [at] gmail [dot] com 
 
 ---
 
 ## Social
 
-1. [Facebook](https://www.facebook.com/ankit.v.gupta)
-2. [Twitter](https://twitter.com/GuptaAnkitV)
+1. [GitHub](https://github.com/amits1ngh)

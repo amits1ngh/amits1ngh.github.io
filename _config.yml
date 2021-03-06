@@ -1,9 +1,9 @@
-title: Ankit Gupta
-url: "https://ankitg.me"
+title: Amit Singh
+url: ""
 baseurl: "/"
 
 markdown: kramdown
-twitter_username: GuptaAnkitV
+# twitter_username: 
 tracking_id: UA-108355039-1
 
 collections:
