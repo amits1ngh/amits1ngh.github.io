@@ -7,28 +7,27 @@ title: Amit Singh
 
 <img class="profile-picture" src="profile.jpg">
 
-I'm a Research Assitant in [Center for Linguistic Science and Technology](https://www.iitg.ac.in), Indian Institute of Technology Guwahati.
+I have completed my masters from [University of Hyderabad](https://uohyd.ac.in) (Institution of Eminence), where I earned a M.Sc degree with distinction in Cognitive Science with a focus on Computational and psycholinguistics. In my final two semesters, I worked with Professor Ramesh Kumar Mishra in the [Action Control and Cognition Lab](https://rameshkumarmishra.wordpress.com) on my masters thesis investigating the effect of bilingual experience and code-switching in Hindi-English biliguals on language processing using eye-tracking methodology.
 
-Previously, I was at [University of Hyderabad](https://uohyd.ac.in) (Institution of Eminence), where I earned a M.Sc degree with distinction in Neural and Cognitive Science with a focus on Cognitive Science and psycholinguistics. In my final two semesters, I worked with Professor Ramesh Kumar Mishra in the [Action Control and Cognition Lab](https://rameshkumarmishra.wordpress.com) on my masters thesis investigating the effect of bilingual experience on language processing using eye-tracking methodology.
-
-I have completed my bachelor in German Language and Linguistics from School of langauge, literature and cultural studies, Jawaharlal Nehru University, New Delhi ([JNU](https://www.jnu.ac.in/sllcs-languagelab)) and gained full-time professional experience afterwards in the domain of corpus linguistics and translation in Alexa Operations, Amazon Development Center, Bangalore.
+Previously, I have completed my bachelor in German Language and Linguistics from School of language, literature and cultural studies, Jawaharlal Nehru University, New Delhi ([JNU](https://www.jnu.ac.in/sllcs-languagelab)) and gained full-time professional experience afterwards in the domain of german linguistics and translation in Amazon Development Center, Bangalore.
 
 
 
 ## Research Interests
 
-Currently, I am interested in understanding and modelling the L1/L2 exposure in sequential and simultaneous bilinguals. My existing research interest lies in understanding the relationship between language experience and its consequences on mind, brain and language processing.
+Currently, I am interested in understanding and modelling the L1/L2 exposure in sequential and simultaneous bilinguals using supervised and unsupervised machine learning methods in NLP. My existing research interest lies in understanding the relationship between language experience and its consequences on mind, brain and language processing.
 
-Some of the questions I am investigating are - 
+Some of the questions I am interested to pursue are - 
 
-1. Language and Mind:
+1. Computational linguistics:
+Artificial Neural Network (ANN) provides a robust method to solve multi-class problems efficiently. Leveraging this advantage, I am trying to extract useful feature vectors from multilingual corpus and compare them cross-linguistically to gain insight about the linguistic intrinsic representations and processes at different liguistic levels, e.g. lexical, morphosyntactic, syntax, conceptual & semantics. Currently I am using unsupervised competitive network - Self organising maps based on Kohonen Network to visualise how concepts are organised in Hindi and English.  
+
+2. Language and Mind:
 What is the nature of two or more linguistic representations in bilingual mind? What are the domain general cognitive processes operate on those representattions? And how and when these representations interact cross-linguistically at surface and deep-level in an online and offline task?  I am trying to investigate some of these questions using Eye-tracking methodology and computational modelling.
 
-2. Bilingualism and Cognition: 
+3. Bilingualism and Cognition: 
 Research in bilingualism provides a wide opportunity to study some of key questions in human cognition spanning from language learning, processing and pathology. Recent study suggest that bilingual experience induces general cognitive advantage, which can be administered using flankers and stroop. I am looking into the cultural and sociolinguistic factors which is responsible behind this phenomena and how Age of L2 Acquisition and social diveristy of langauge use modulate the cognitive control. Following on this theory, I am exploring whether the expeience can be quantified and modelled using any supervised or unsupervised machine learning, deep learning or network models. 
 
-3. Computational linguistics:
-Artificial Neural Network (ANN) provides a robust method to solve multi-class problems efficiently. Leveraging this advantage, I am trying to extract useful feature vectors from multilingual corpus and compare them cross-linguistically to gain insight about the linguistic intrinsic representations and processes at different liguistic levels, e.g. lexical, morphosyntactic, syntax, conceptual & semantics. Currently I am using unsupervised competitive network - Self organising maps based on Kohonen Network to visualise how concepts are organised in Hindi and English.  
 
 
 
@@ -51,7 +50,7 @@ I have worked as summer intern in Speech Signal Processing Lab, IIIT, Hyderabad.
 
 Year | Course | University
 -----|------- | -----------
-2020 | MSc Neural and Cognitive Science | University of Hyderabad 
+2020 | MSc Cognitive Science | University of Hyderabad 
 2017 | B.A. Honours in German Language and Linguistics| Jawaharlal Nehru University (JNU), New Delhi
 2014 | Certificate in German Language | University of Delhi
 
