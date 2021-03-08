@@ -7,15 +7,15 @@ title: Amit Singh
 
 <img class="profile-picture" src="profile.jpg">
 
-I have completed my masters from [University of Hyderabad](https://uohyd.ac.in) (Institution of Eminence), where I earned a M.Sc degree with distinction in Cognitive Science with a focus on Computational and psycholinguistics. In my final two semesters, I worked with Professor Ramesh Kumar Mishra in the [Action Control and Cognition Lab](https://rameshkumarmishra.wordpress.com) on my masters thesis investigating the effect of bilingual experience and code-switching in Hindi-English biliguals on language processing using eye-tracking methodology.
+I have completed my masters from [University of Hyderabad](https://uohyd.ac.in) (Institution of Eminence), where I earned a M.Sc with distinction in Cognitive Science. My focus area was Computational- and psycholinguistics. In my final two semesters, I worked on my masters thesis investigating the effect of bilingual experience and code-switching on language processing using eye-tracking methodology in Hindi-English bilinguals.
 
-Previously, I have completed my bachelor in German Language and Linguistics from School of language, literature and cultural studies, Jawaharlal Nehru University, New Delhi ([JNU](https://www.jnu.ac.in/sllcs-languagelab)) and gained full-time professional experience afterwards in the domain of german linguistics and translation in Amazon Development Center, Bangalore.
+Previously, I have completed my bachelor in German Language and Linguistics from School of language, literature and cultural studies, Jawaharlal Nehru University, New Delhi ([JNU](https://www.jnu.ac.in/sllcs-languagelab)) and also gained full-time professional experience afterwards in the domain of german translation and linguistics in Amazon Development Center, Bangalore.
 
 
 
 ## Research Interests
 
-Currently, I am interested in understanding and modelling the L1/L2 exposure in sequential and simultaneous bilinguals using supervised and unsupervised machine learning methods in NLP. My existing research interest lies in understanding the relationship between language experience and its consequences on mind, brain and language processing.
+Currently, I am interested in understanding and modelling the L1/L2 exposure in sequential and simultaneous bilinguals in India using supervised and unsupervised machine learning methods in NLP. My existing research interest lies in understanding the relationship between language experience and its consequences on mind, brain and language processing.
 
 Some of the questions I am interested to pursue are - 
 
