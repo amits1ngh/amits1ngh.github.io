@@ -7,7 +7,7 @@ title: Amit Singh
 
 <img class="profile-picture" src="profile.jpg">
 
-I have completed my masters from [University of Hyderabad](https://uohyd.ac.in) (Institution of Eminence), where I earned a M.Sc with distinction in Cognitive Science. My focus area was Computational- and psycholinguistics. In my final two semesters, I worked on my masters thesis investigating the effect of bilingual experience and code-switching on language processing using eye-tracking methodology in Hindi-English bilinguals.
+I have completed my masters from [University of Hyderabad](https://uohyd.ac.in) (Institution of Eminence), where I earned a M.Sc with distinction in Cognitive Science. My focus area was Computational- and psycholinguistics. In my final two semesters, I worked on my masters dissertation investigating the effect of bilingual experience and code-switching on language processing using eye-tracking methodology in Hindi-English bilinguals. ([Click to read](assets/Dissertation.pdf))
 
 Previously, I have completed my bachelor in German Language and Linguistics from School of language, literature and cultural studies, Jawaharlal Nehru University, New Delhi ([JNU](https://www.jnu.ac.in/sllcs-languagelab)) and also gained full-time professional experience afterwards in the domain of german translation and linguistics in Amazon Development Center, Bangalore.
 
@@ -20,10 +20,10 @@ Currently, I am interested in understanding and modelling the L1/L2 exposure in 
 Some of the questions I am interested to pursue are - 
 
 1. Computational linguistics:
-Artificial Neural Network (ANN) provides a robust method to solve multi-class problems efficiently. Leveraging this advantage, I am trying to extract useful feature vectors from multilingual corpus and compare them cross-linguistically to gain insight about the linguistic intrinsic representations and processes at different liguistic levels, e.g. lexical, morphosyntactic, syntax, conceptual & semantics. Currently I am using unsupervised competitive network - Self organising maps based on Kohonen Network to visualise how concepts are organised in Hindi and English.  
+Artificial Neural Network (ANN) provides a robust method to solve multi-class problems efficiently. Leveraging this advantage, I am trying to extract useful feature vectors from multilingual corpus and compare them cross-linguistically to gain insight about the linguistic intrinsic representations and processes at different liguistic levels, e.g. lexical, morphosyntactic, syntax, conceptual & semantics. I am also interested in information theoretic approach for langauge processing ([Click to read](assets/Draft_Efficiency&Bilingualism.pdf)).  
 
 2. Language and Mind:
-What is the nature of two or more linguistic representations in bilingual mind? What are the domain general cognitive processes operate on those representattions? And how and when these representations interact cross-linguistically at surface and deep-level in an online and offline task?  I am trying to investigate some of these questions using Eye-tracking methodology and computational modelling.
+What is the nature of two or more linguistic representations in bilingual mind? What are the domain general cognitive processes operate on those representations? And how and when these representations interact cross-linguistically at surface and deep-level in an online and offline task?  I am trying to investigate some of these questions using eye-tracking methodology and computational modelling.
 
 3. Bilingualism and Cognition: 
 Research in bilingualism provides a wide opportunity to study some of key questions in human cognition spanning from language learning, processing and pathology. Recent study suggest that bilingual experience induces general cognitive advantage, which can be administered using flankers and stroop. I am looking into the cultural and sociolinguistic factors which is responsible behind this phenomena and how Age of L2 Acquisition and social diveristy of langauge use modulate the cognitive control. Following on this theory, I am exploring whether the expeience can be quantified and modelled using any supervised or unsupervised machine learning, deep learning or network models. 
@@ -58,13 +58,10 @@ Year | Course | University
 
 ## References
 
-* Dr. Priyada Shridhar Padhye: Assistant Professor, School of Language, Literature and Culture Studies, Jawaharlal Nehru University, New Delhi.
+* Dr. Priyada Shridhar Padhye: Assistant Professor, Center for German Studies, School of Language, Literature and Culture Studies, Jawaharlal Nehru University, New Delhi.
 * Prof. Ramesh Kumar Mishra: Professor and Head, Center for Neural and Cognitive Sciences, University of Hyderabad, Hyderabad.
 * Dr. Joby Joseph: Associate Professor, Center for Neural and Cognitive Sciences, University of Hyderabad, Hyderabad.
 
 ## Website
 This is based on jekyll website template. You can find the original template source code on [GitHub](https://github.com/bk2dcradle/researcher).
-
-
-
 
