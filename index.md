@@ -14,7 +14,7 @@ Previously, I have completed my bachelor in German Language and Linguistics from
 
 
 ## Research Interests
-<img src="images/eyetrack.gif" width="100" height="250" /> src: ACCL <img src="images/eyetrack2.gif" width="100" height="250" style="float:right" /> 
+<img src="images/eyetrack.gif" /> src: ACCL <img src="images/eyetrack2.gif" style="float:right" /> 
 
 Currently, I am interested in understanding and modelling the L1/L2 exposure in sequential and simultaneous bilinguals in India using Eyetracking methodology and Natural Language Processing. My existing research interest lies in understanding the relationship between bilingual experience and its consequences on mind, brain and language processing.
 
