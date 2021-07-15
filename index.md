@@ -7,7 +7,7 @@ title: Amit Singh
 
 <img class="profile-picture" src="profile.jpg">
 
-I have completed my masters from [University of Hyderabad](https://uohyd.ac.in) (Institution of Eminence), where I earned a M.Sc with distinction in Cognitive Science. My focus area was Computational- and psycholinguistics. In my final two semesters, I worked on my masters dissertation investigating the effect of bilingual experience on language processing using eye-tracking methodology in Hindi-English bilinguals. ([draft](assets/Dissertation.pdf))
+I have completed my masters from [University of Hyderabad](https://uohyd.ac.in) (Institution of Eminence), where I earned a M.Sc with distinction in Cognitive Science. My focus area was Computational- and psycholinguistics. In my final semester, under supervision of [Prof. Ramesh Kumar Mishra](https://sites.google.com/a/uohyd.ac.in/language-action-control-lab/home), I worked on my masters dissertation investigating the effect of bilingual experience on language processing using eye-tracking methodology in Hindi-English bilinguals. ([draft](assets/Dissertation.pdf))
 
 Previously, I have completed my bachelor in German Language and Linguistics from School of language, literature and cultural studies, Jawaharlal Nehru University, New Delhi ([JNU](https://www.jnu.ac.in/sllcs/cgs)) and also gained full-time professional experience afterwards in the domain of german translation and linguistics in Amazon Development Center, Bangalore.
 
