@@ -2,7 +2,7 @@
 layout: default
 is_dance_videos: true
 ---
-Glad that you found my new Avatar! This is my another Version, which comes out naturally when I am on stage and there is music around! The rule is simple, I listen to music and simulate movements in my mind which comes out as a Choreography when seen from other perspective. 
+Glad that you found my new Avatar! This is my another Version, which comes out naturally when I am on stage and there is music around! The rule is simple, I listen to music and simulate movements in my mind which comes out as a Choreography when seen from others' perspective. 
 I usually like to do lyrical Bollywood, but currently learning Urban and in future keen to learn Jazz, Salsa, Contemporary or any other style you suggest. 
 
 Some of my dance performances, though not professionally vodeographed but still in synchrony and visible, thanks to my friends who captured and WhatsApped me later as a gift :) 
