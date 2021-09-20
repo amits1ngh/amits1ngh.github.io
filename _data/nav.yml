@@ -1,6 +1,3 @@
-- name: "Dance-videos"
-  link: "/dance_videos"
-
 - name: "Contact"
   link: "/contact"
 
@@ -9,3 +6,6 @@
 
 - name: "Github"
   link: "https://github.com/amits1ngh"
+
+- name: "Dance-videos"
+  link: "/dance_videos"
