@@ -5,7 +5,7 @@ title: Amit Singh
 
 ## About Me
 
-<img class="profile-picture" src="profile.jpg">
+<img class="profile-picture" src="profile_picture.jpg">
 
 Hello, Welcome to my page!
 
