@@ -10,7 +10,7 @@ title: Amit Singh
 Hello, Welcome to my page!
 
 About me:
-Currently, a PhD student at Paderborn University working in sub-project [AO5](https://trr318.uni-paderborn.de/teilprojekte/a05), which is a part of interdisciplinary project - Sonderforschungsbereich/Transregio TRR [„Constructing Explainability“](https://trr318.uni-paderborn.de). Under guidance of Prof. Dr. Katharina Rohlfing, I am investigating the role of negation in scaffolding and verbal contrastive guidance. More specifically, we are interested to examine whether negation, when used in the process of explaination as a verbal behaviour during scaffolding, could potentially be utilised to model visual attention in Human-Robot interaction. 
+Currently a PhD student at Paderborn University, working in sub-project [AO5](https://trr318.uni-paderborn.de/teilprojekte/a05), which is a part of interdisciplinary project - Sonderforschungsbereich/Transregio TRR [„Constructing Explainability“](https://trr318.uni-paderborn.de). Under guidance of Prof. Dr. Katharina Rohlfing, I am investigating the role of negation in scaffolding and verbal contrastive guidance. More specifically, we are interested to examine whether negation, when used in the process of explaination as a verbal behaviour during scaffolding, could potentially be utilised to model visual attention in Human-Robot interaction. 
 
 My background:
 I have completed my masters from [University of Hyderabad](https://uohyd.ac.in), where I earned a M.Sc with distinction in Cognitive Science and my bachelor in German Language and Linguistics from School of language, literature and cultural studies, Jawaharlal Nehru University, New Delhi ([JNU](https://www.jnu.ac.in/sllcs/cgs)).
@@ -25,7 +25,7 @@ src: ACCL
  </table>
 
 
-I have been exploring the field of psycholinguistics from various viewpoints, sometime being reductionist/eleminative materialist and sometime being idealist, and now a functionalist. Some of my past explorations in psycholinguistic and Cognitive Science:
+I have been exploring the field of psycholinguistics from various viewpoints, sometime being reductionist/eleminative materialist and sometime being idealist, and now a functionalist. Some of my past explorations in psycholinguistics and Cognitive Science:
 
 1. Bilingualism and Cognition: 
 Research in bilingualism provides a wide opportunity to study some of key questions in human cognition spanning from language learning, processing and pathology ([draft](assets/Bilingualism_Draft.pdf)). Recent study suggest that bilingual experience induces general cognitive advantage and reserve, which can be administered using flankers and stroop. I attempted to look into the cultural and sociolinguistic factors which is responsible behind this phenomena and how Age of L2 Acquisition and social diversity of langauge use might modulate the cognitive control. 
