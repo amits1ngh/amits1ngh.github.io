@@ -25,7 +25,7 @@ src: ACCL
  </table>
 
 
-My reserach interest prominently lies in psycholinguistics. I am specifically interested to understand the interplay between langauge and attention. Some of my past and current topic of interests are:-
+My research interest prominently lies in psycholinguistics. I am specifically interested to understand the interplay between langauge and attention. Some of my past and current topic of interests are:-
 
 1. Bilingualism and Cognition: 
 Research in bilingualism provides a wide opportunity to study some of key questions in human cognition spanning from language learning, processing and pathology ([draft](assets/Bilingualism_Draft.pdf)). Recent study suggest that bilingual experience induces general cognitive advantage and reserve, which can be administered using flankers and stroop. I attempted to look into the cultural and sociolinguistic factors which is responsible behind this phenomena and how Age of L2 Acquisition and social diversity of langauge use might modulate the cognitive control. 
