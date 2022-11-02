@@ -4,8 +4,9 @@
 - name: "CV"
   link: "/assets/Lebenslauf.pdf"
 
+- name: "Dance-videos"
+  link: "/dance_videos"
+
 - name: "Github"
   link: "https://github.com/amits1ngh"
 
-# - name: "Dance-videos"
-  # link: "/dance_videos"
