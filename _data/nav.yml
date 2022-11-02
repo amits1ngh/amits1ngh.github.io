@@ -7,6 +7,9 @@
 - name: "Dance-videos"
   link: "/dance_videos"
 
+- name: "Publications"
+  link: "/publications"
+
 - name: "Github"
   link: "https://github.com/amits1ngh"
 
