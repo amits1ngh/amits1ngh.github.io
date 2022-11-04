@@ -7,19 +7,8 @@ title: Amit Singh
 
 <img class="profile-picture" src="profile_picture.jpg">
 
-Hello, Welcome to my page :)
+I am currently a doctoral candidate at SFB TRR318 [„Constructing Explainability“](https://trr318.uni-paderborn.de), Paderborn University. Under the joint supervision of Prof. Katharina Rohlfing, Prof. Britta Wrede and Prof.Ingrid Scharlau at the Universities of Paderborn and Bielefeld, I am working on [Project-A05](https://trr318.uni-paderborn.de/projekte/a05). Broadly speaking, my research interest lies in the domain of psycholinguistics and cognitive science. In order to study the interrelationship between language and attention, currently I make use of eye-tracking methodology. 
 
-About me:
-I am currently a doctoral candidate, working on sub-project [AO5](https://trr318.uni-paderborn.de/projekte/a05) - Contextualized and online parametrization of attention in human–robot explanatory dialog. The project is a part of larger interdisciplinary project at Bielefeld and Paderborn University, Transregio TRR318 [„Constructing Explainability“](https://trr318.uni-paderborn.de). 
-Under guidance of [Prof. Katharina Rohlfing](https://kw.uni-paderborn.de/institut-fuer-germanistik-und-vergleichende-literaturwissenschaft/germanistische-und-allgemeine-sprachwissenschaft/rohlfing/team/prof-dr-katharina-rohlfing/50352), I am investigating the relationship between linguistic negation and visual attention. More specifically, we are interested to examine whether negation in a process of explanation, could potentially be utilized to guide visual attention in Human-Robot explanatory dialogue. 
-
-My background:
-I have completed masters in Cognitive Science from University of Hyderabad and bachelors in Germanistik from Jawaharlal Nehru University (JNU), New Delhi.
-
-
-## Research Interests
-
-My research interest mainly lies in the domain of psycholinguistics. In order to study the interrelationship between language and attention, currently I make use of eye-tracking methodology. 
 <table>
 src: ACCL
   <tr>
@@ -28,12 +17,13 @@ src: ACCL
   </tr>
  </table>
 
-As a hobby, I like to do lyrical-bollywood dance and photography.
+As a side activity and a hobby, I like to do lyrical-bollywood dance and photography. Some of those you can find in the navigation section :)
+
 ## Education
 
 Year | Activity | Affiliation
 -----|------- | -----------
-2021 - till date | Doctoral Candidate | Paderborn University
+2021 - pres. | Doctoral Candidate | Paderborn University
 2020 | MSc Cognitive Science | University of Hyderabad 
 2018 | Data Associate - German (full-time)| Alexa Ops. Amazon Development Center, Bangalore
 2017 | B.A. Honours German | Jawaharlal Nehru University (JNU), New Delhi
