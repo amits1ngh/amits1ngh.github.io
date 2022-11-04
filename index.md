@@ -8,6 +8,7 @@ title: Amit Singh
 <img class="profile-picture" src="profile_picture.jpg">
 
 I am currently a doctoral candidate at SFB TRR318 [„Constructing Explainability“](https://trr318.uni-paderborn.de), Paderborn University. Under the joint supervision of Prof. Katharina Rohlfing, Prof. Britta Wrede and Prof.Ingrid Scharlau at the Universities of Paderborn and Bielefeld, I am working on [Project-A05](https://trr318.uni-paderborn.de/projekte/a05). 
+
 Broadly speaking, my research interest lies in the domain of psycholinguistics and cognitive science. In order to study the interrelationship between language and attention, currently I make use of eye-tracking methodology. 
 
 <table>
