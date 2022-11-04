@@ -3,7 +3,7 @@ layout: default
 is_dance_videos: true
 --- 
 
-Some of my dance performances, though not professionally vodeographed but still in synchrony and visible, thanks to my friends who captured and WhatsApped me later :) 
+Some of my dance performances you can fimd it here. Thanks to my friends who captured and WhatsApped me later :) 
 
 1. Choreographed a new song when I was getting bored in my room ;)\
 Song: Srivalli\
