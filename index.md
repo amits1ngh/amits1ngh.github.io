@@ -5,7 +5,7 @@ title: Amit Singh
 
 ## About Me
 
-<img class="profile-picture" src="profile_picture.jpg">
+<img class="profile-picture" src="profile_picture_updated.jpg">
 
 I am currently a doctoral candidate at SFB TRR318 [„Constructing Explainability“](https://trr318.uni-paderborn.de), Paderborn University. Under the joint supervision of Prof. Katharina Rohlfing, Prof. Britta Wrede and Prof.Ingrid Scharlau at the Universities of Paderborn and Bielefeld, I am working on [Project-A05](https://trr318.uni-paderborn.de/projekte/a05). 
 
