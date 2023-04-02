@@ -1,5 +1,6 @@
 ## Publications
 
+* **Singh, A.**  &  Rohlfing, K.J. (2022). Negation processing in action: How action path is interpreted in a negated context? in Frau, F., Bischetti, L., Pompei, C., Scalingi, B., Domaneschi, F., & Bambini, V., Book of Abstracts - XPRAG 2022. doi: [https://doi.org/10.17605/OSF.IO/C4KP2](https://doi.org/10.17605/OSF.IO/C4KP2)
+
 * **Singh, A.**  &  Rohlfing, K.J. (2022). Does contrastive attention guidance facilitate action recall? An eye-tracking study. In: Ferstl, E., Konieczny, L., von Stülpnagel, R., Beck, J., and Zacharski, L., (Eds.). Proceedings of KogWis2022, the 5th Biannual Conference of the German Society for Cognitive Science. Albert-Ludwigs-Universität Freiburg, Freiburg, Germany. Sep. 5th-7th 2022. doi: [10.6094/UNIFR/229611](https://freidok.uni-freiburg.de/data/229611) / [Abstract](/assets/Abstract_KogWis2022_Singh%26Rohlfing.pdf)
 
-* **Singh, A.**  &  Rohlfing, K.J. (2022). Negation processing in action: How action path is interpreted in a negated context? in Frau, F., Bischetti, L., Pompei, C., Scalingi, B., Domaneschi, F., & Bambini, V., Book of Abstracts - XPRAG 2022. doi: [https://doi.org/10.17605/OSF.IO/C4KP2](https://doi.org/10.17605/OSF.IO/C4KP2)
