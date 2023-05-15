@@ -1,7 +1,7 @@
 ## Publications
 
 ### Conference Contributions
-* Singh, A., & Rohlfing, K. J. **Contrastiveness in the context of action demonstration: an eye-tracking study on its effects on action perception and action recall**. Proceedings of the Cognitive Science conference, 2023. accepted. [pre-print](10.31234/osf.io/f9zsv)
+* Singh, A., & Rohlfing, K. J. **Contrastiveness in the context of action demonstration: an eye-tracking study on its effects on action perception and action recall**. Proceedings of the Cognitive Science conference, 2023. accepted. [pre-print](https://psyarxiv.com/f9zsv/)
 
 * Singh, A.  &  Rohlfing, K.J. **Negation processing in action: How action path is interpreted in a negated context**? in Frau, F., Bischetti, L., Pompei, C., Scalingi, B., Domaneschi, F., & Bambini, V., Book of Abstracts - XPRAG 2022. 2022. [DOI](https://doi.org/10.17605/OSF.IO/C4KP2) / [Abstract](/assets/XPRAG2022_Abstract_NegationAction.pdf) / [Poster](/assets/Singh_Poster_XPRAG2022.pdf)
 
