@@ -2,8 +2,7 @@
 layout: default
 title: Amit Singh
 ---
-
-## About Me
+Hello :)
 
 <img class="profile-picture" src="profile_picture_updated.jpg">
 
@@ -19,9 +18,9 @@ src: ACCL
   </tr>
  </table>
 
-As a side activity and a hobby, I like to do lyrical-bollywood dance and photography. Some of those you can find in the navigation section :)
+As a side activity and a hobby, I like to do lyrical-bollywood dance and photography.
 
-## Education
+## Brief CV
 
 Year | Activity | Affiliation
 -----|------- | -----------
