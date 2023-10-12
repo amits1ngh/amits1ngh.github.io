@@ -1,10 +1,11 @@
 
-- name: "Publications"
-  link: "/publications"
+- name: "Github"
+  link: "https://github.com/amits1ngh"
 
 - name: "CV"
   link: "/assets/CV_22.12.2022.pdf"
 
-- name: "Github"
-  link: "https://github.com/amits1ngh"
+- name: "Publications"
+  link: "/publications"
+  
 
