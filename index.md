@@ -5,9 +5,11 @@ title: Amit Singh
 <img class="profile-picture" src="profile_picture_updated.jpg">
 Psycholinguistics\
 Zukunftsmeile 2, Paderborn University\
-33098 Paderborn, Germany\
-Phone: +49-(0)5251-60-4491\
-Email: amit dot singh at uni hyphen paderborn dot de
+33102 Paderborn, Germany\
+**Phone:** +49-(0)5251-60-4491\
+**Email:** amit dot singh at uni hyphen paderborn dot de
+
+
 
 
 I am currently a doctoral candidate in Psycholinguistics at SFB TRR318 [„Constructing Explainability“](https://trr318.uni-paderborn.de), a collaborative research center at Paderborn and Bielefeld University. Within the SFB TRR318, I am engaged in [Project-A05](https://trr318.uni-paderborn.de/projekte/a05), a specific research project under the joint supervision of [Prof. Dr. Katharina Rohlfing](https://www.uni-paderborn.de/person/50352), [Prof. Dr.-Ing. Britta Wrede](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10380), and [Prof. Dr. Ingrid Scharlau](https://kw.uni-paderborn.de/fach-psychologie/kognitive-psychologie/).
@@ -34,6 +36,7 @@ Year | Activity | Affiliation
 -----|------- | -----------
 2021 - pres. | Doctoral Candidate | Paderborn University
 2020 | MSc Cognitive Science | University of Hyderabad 
+2019 | Research Intern, Software Engineering Research Center, IIIT Hyderabad
 2018 | Data Associate - German (full-time)| Alexa Ops. Amazon Development Center, Bangalore
 2017 | B.A. Honours German | Jawaharlal Nehru University (JNU), New Delhi
 2014 | Certificate in German Language | University of Delhi

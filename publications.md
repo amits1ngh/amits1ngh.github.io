@@ -1,9 +1,8 @@
-###
 
 ### Research articles (accepted, under review)
 * **Singh, A.**, & Rohlfing, K.J. (2023). The impact of contrastive attention guidance on action memory. *Journal of Memory and Language* (under review)
 
-* Groß, A., **Singh, A.**, Banh, N. C., Richter, B., Scharlau, I., Rohlfing, K. J., & Wrede, B. (accepted). Scaffolding the human partner by contrastive guidance in an explanatory human-robot dialogue. *Frontiers in Robotics and AI, 10*. doi: 10.3389/frobt.2023.1236184 [link](https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract)
+* Groß, A., **Singh, A.**, Banh, N. C., Richter, B., Scharlau, I., Rohlfing, K. J., & Wrede, B. (accepted). Scaffolding the human partner by contrastive guidance in an explanatory human-robot dialogue. *Frontiers in Robotics and AI, 10*. [doi: 10.3389/frobt.2023.1236184](https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract)
 
 
 
