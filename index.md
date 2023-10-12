@@ -2,15 +2,13 @@
 layout: default
 title: Amit Singh
 ---
+<img class="profile-picture" src="profile_picture_updated.jpg">
 Psycholinguistics\
 Zukunftsmeile 2, Paderborn University\
 33098 Paderborn, Germany\
 Phone: +49-(0)5251-60-4491\
-Email: amit dot singh at uni hyphen paderborn dot de\
+Email: amit dot singh at uni hyphen paderborn dot de
 
-
-
-<img class="profile-picture" src="profile_picture_updated.jpg">
 
 I am currently a doctoral candidate in Psycholinguistics at SFB TRR318 [„Constructing Explainability“](https://trr318.uni-paderborn.de), a collaborative research center at Paderborn and Bielefeld University. Within the SFB TRR318, I am engaged in [Project-A05](https://trr318.uni-paderborn.de/projekte/a05), a specific research project under the joint supervision of Prof. Katharina Rohlfing, Prof. Britta Wrede, and Prof. Ingrid Scharlau.
 
