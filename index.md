@@ -36,7 +36,7 @@ Year | Activity | Affiliation
 -----|------- | -----------
 2021 - pres. | Doctoral Candidate | Paderborn University
 2020 | MSc Cognitive Science | University of Hyderabad 
-2019 | Research Intern, Software Engineering Research Center, IIIT Hyderabad
+2019 | Research Intern | Software Engineering Research Center, IIIT Hyderabad
 2018 | Data Associate - German (full-time)| Alexa Ops. Amazon Development Center, Bangalore
 2017 | B.A. Honours German | Jawaharlal Nehru University (JNU), New Delhi
 2014 | Certificate in German Language | University of Delhi
