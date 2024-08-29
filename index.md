@@ -14,7 +14,7 @@ Zukunftsmeile 2, Paderborn University\
 
 I am currently a doctoral candidate in Psycholinguistics at SFB TRR318 [„Constructing Explainability“](https://trr318.uni-paderborn.de), a collaborative research center at Paderborn and Bielefeld University. Within the SFB TRR318, I am engaged in [Project-A05](https://trr318.uni-paderborn.de/projekte/a05), a specific research project under the joint supervision of [Prof. Dr. Katharina Rohlfing](https://www.uni-paderborn.de/person/50352), [Prof. Dr.-Ing. Britta Wrede](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10380), and [Prof. Dr. Ingrid Scharlau](https://kw.uni-paderborn.de/fach-psychologie/kognitive-psychologie/).
 
-Before joining [RTG-TRR318](https://trr318.uni-paderborn.de), I completed a BA (Honours) in Germanistik from Jawaharlal Nehru University (JNU) and an M.Sc. in Cognitive Science from the University of Hyderabad (UoH). My research investigates the online cognitive processes underlying language and vision, and how they concurrently influence each other. 
+I completed a BA (Honours) in Germanistik from Jawaharlal Nehru University (JNU) and an M.Sc. in Cognitive Science from the University of Hyderabad (UoH). My research investigates the online cognitive processes underlying language and vision, and how they concurrently influence each other. 
 
 Lately, I've been shifting my research focus away from traditional psycholinguistic experiments conducted in isolation and instead placing a stronger emphasis on studying the dynamics of human interaction, particularly within the realm of pragmatics. 
 
