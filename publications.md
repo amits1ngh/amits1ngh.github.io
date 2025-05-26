@@ -1,8 +1,10 @@
 
 ### Research articles (accepted, under review)
-* **Singh, A.**, & Rohlfing, K.J. (2023). The impact of contrastive attention guidance on action memory. *Journal of Memory and Language* (under review)
+* **Singh, A.**, & Rohlfing, K.J. (2023). Contrastive verbal guidance: A beneficial context for attention to events and their memory? *Cognitive Science* (under review)
 
-* Groß, A., **Singh, A.**, Banh, N. C., Richter, B., Scharlau, I., Rohlfing, K. J., & Wrede, B. (accepted). Scaffolding the human partner by contrastive guidance in an explanatory human-robot dialogue. *Frontiers in Robotics and AI, 10*. [doi: 10.3389/frobt.2023.1236184](https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract)
+* Groß, A., **Singh, A.**, Banh, N. C., Richter, B., Scharlau, I., Rohlfing, K. J., & Wrede, B. (2023). Scaffolding the human partner by contrastive guidance in an explanatory human-robot dialogue. *Frontiers in Robotics and AI, 10*. [doi: 10.3389/frobt.2023.1236184](https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract)
+
+* **Singh, A.**, & Wrede, B., Birte, R., Groß, A., Rohlfing, K.J. (2025). Manners Matter: Action history guides attention and repair choices during interaction. *IEEE International Conference on Development and Learning (ICDL)* (under review)
 
 
 

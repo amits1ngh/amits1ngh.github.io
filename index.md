@@ -12,23 +12,19 @@ Zukunftsmeile 2, Paderborn University\
 
 
 
-I am currently a doctoral candidate in Psycholinguistics at SFB TRR318 [„Constructing Explainability“](https://trr318.uni-paderborn.de), a collaborative research center at Paderborn and Bielefeld University. Within the SFB TRR318, I am engaged in [Project-A05](https://trr318.uni-paderborn.de/projekte/a05), a specific research project under the joint supervision of [Prof. Dr. Katharina Rohlfing](https://www.uni-paderborn.de/person/50352), [Prof. Dr.-Ing. Britta Wrede](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10380), and [Prof. Dr. Ingrid Scharlau](https://kw.uni-paderborn.de/fach-psychologie/kognitive-psychologie/).
+I am currently a doctoral candidate in Psycholinguistics at SFB TRR318 [„Constructing Explainability“](https://trr318.uni-paderborn.de), a collaborative research center at Paderborn and Bielefeld University. As part of [Project-A05](https://trr318.uni-paderborn.de/projekte/a05), I am working under the joint supervision of [Prof. Dr. Katharina Rohlfing](https://www.uni-paderborn.de/person/50352), [Prof. Dr.-Ing. Britta Wrede](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10380), and [Prof. Dr. Ingrid Scharlau](https://kw.uni-paderborn.de/fach-psychologie/kognitive-psychologie/).
 
-I completed a BA (Honours) in Germanistik from Jawaharlal Nehru University (JNU) and an M.Sc. in Cognitive Science from the University of Hyderabad (UoH). My research investigates the online cognitive processes underlying language and vision, and how they concurrently influence each other. 
+Before joining SFB, I completed my M.Sc. in Cognitive Science from University of Hyderabad. My research focuses on the role of multimodal cues in shaping social interaction, with particular emphasis on how language and vision interact in real-time communication setting.  I investigate cognitive processess underlying social interaction, particularly how individuals engaged in conversations - be it between humans or between human and a robot - leverage a myraid of cues and multimodal signals to establish shared context, negotiate mutual understanding, and coordinate joint actions.
 
-Lately, I've been shifting my research focus away from traditional psycholinguistic experiments conducted in isolation and instead placing a stronger emphasis on studying the dynamics of human interaction, particularly within the realm of pragmatics. 
+To look into these processes, I have been using online experimental methods (including remote and mobile eye-tracking) and statistical modelling (both Bayesian and frequentist) to analyze data from psycholinguistic experiments. 
 
-I am interested to understand the intricacies of social interaction processes, particularly on how individuals engaged in conversations - be it between humans or between human and a robot - leverage a myriad of pragmatic cues to collectively establish a shared context and joint goal within a single communicative framework.
-
-My methodologies include, Eye-tracking (Remote and Mobile) and conversational analysis.
 <table>
   <tr>
-    <td><img src="images/eyetrack1.gif"></td>
-    <td><img src="images/eyetrack2.gif"></td>
+    <td><img src="images/scenario.gif"></td>
   </tr>
  </table>
 
-As a side activity and a hobby, I like to do lyrical-bollywood dance and photography.
+As a side activity and a hobby, I like to do lyrical-bollywood dance.
 
 ## Brief CV
 
