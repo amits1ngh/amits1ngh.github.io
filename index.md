@@ -23,8 +23,9 @@ To look into these processes, I have been using online experimental methods (inc
     <td><img src="images/scenario.gif"></td>
   </tr>
  </table>
+*source: SprachSpielLabor, Paderborn University
 
-As a side activity and a hobby, I like to do lyrical-bollywood dance.
+
 
 ## Brief CV
 
