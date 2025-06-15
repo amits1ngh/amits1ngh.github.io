@@ -2,8 +2,8 @@
 - name: "Github"
   link: "https://github.com/amits1ngh"
 
-- name: "CV"
-  link: "/assets/Lebenslauf.pdf"
+- name: "Projects"
+  link: "/projects"
 
 - name: "Publications"
   link: "/publications"
