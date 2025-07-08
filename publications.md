@@ -1,5 +1,7 @@
 ### Conference Talks (Peer-reviewed)
-* **Singh, A.**, Rohlfing, K.J. (2025). Embedding Psycholinguistics: An Interactive Framework for Studying Language in Action, *6th Biannual Conference of the German Society for Cognitive Science* (KogWis 2025), Ruhr-University Bochum, Germany. (accepted)
+* **Singh, A.**, & Wrede, B., Birte, R., Groß, A., Rohlfing, K.J. (2025). Manners Matter: Action history guides attention and repair choices during interaction. *IEEE International Conference on Development and Learning (ICDL)* (in press).
+
+* **Singh, A.**, Rohlfing, K.J. (2025). Embedding Psycholinguistics: An Interactive Framework for Studying Language in Action, *6th Biannual Conference of the German Society for Cognitive Science* (KogWis 2025), Ruhr-University Bochum, Germany. (to appear)
 
 * **Singh, A.**, & Rohlfing, K.J. (2024). Coupling of Task and Partner Model: Investigating the Intra-Individual Variability in Gaze during Human–Robot Explanatory Dialogue. *26th ACM International Conference on Multimodal Interaction (to appear, ICMI 2024), San Jose, Costa Rica*. [link](https://doi.org/10.1145/3686215.3689202)
 
@@ -12,8 +14,6 @@
 
 
 ### Conference contributions (Peer-reviewed)
-* **Singh, A.**, & Wrede, B., Birte, R., Groß, A., Rohlfing, K.J. (2025). Manners Matter: Action history guides attention and repair choices during interaction. *IEEE International Conference on Development and Learning (ICDL)* (accepted)
-
 * **Singh, A.**, & Rohlfing, K.J. (2023). Contrastiveness in the context of action demonstration: an eye-tracking study on its effects on action perception and action recall. *Proceedings of the Annual Meeting of the Cognitive Science Society, 45*. [link](https://escholarship.org/content/qt2w94t4cv/qt2w94t4cv.pdf?t=rxoyje)
 
 * **Singh, A.**, &  Rohlfing, K.J. (2022). Does contrastive attention guidance facilitate action recall? An eye-tracking study. In: Ferstl, E., Konieczny, L., von Stülpnagel, R., Beck, J., and Zacharski, L., (Eds.). *Proceedings of KogWis2022, the 5th Biannual Conference of the German Society for Cognitive Science*. Albert-Ludwigs-Universität Freiburg, Freiburg, Germany. Sep. 5th-7th 2022. [DOI](https://freidok.uni-freiburg.de/data/229611) / [Abstract](/assets/Abstract_KogWis2022_Singh%26Rohlfing.pdf) / [Poster](/assets/KogWiss2022_Poster.pdf)
