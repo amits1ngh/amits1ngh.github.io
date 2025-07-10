@@ -3,7 +3,7 @@
 
 * **Singh, A.**, Rohlfing, K.J. (2025). Embedding Psycholinguistics: An Interactive Framework for Studying Language in Action, *6th Biannual Conference of the German Society for Cognitive Science* (KogWis 2025), Ruhr-University Bochum, Germany. (to appear)
 
-* **Singh, A.**, & Rohlfing, K.J. (2024). Coupling of Task and Partner Model: Investigating the Intra-Individual Variability in Gaze during Human–Robot Explanatory Dialogue. *26th ACM International Conference on Multimodal Interaction (to appear, ICMI 2024), San Jose, Costa Rica*. [link](https://doi.org/10.1145/3686215.3689202)
+* **Singh, A.**, & Rohlfing, K.J. (2024). Coupling of Task and Partner Model: Investigating the Intra-Individual Variability in Gaze during Human–Robot Explanatory Dialogue. *26th ACM International Conference on Multimodal Interaction (ACM ICMI 2024), San Jose, Costa Rica*. [link](https://doi.org/10.1145/3686215.3689202)
 
 
 ### Research articles 
