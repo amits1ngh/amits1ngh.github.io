@@ -11,6 +11,7 @@
 
 * Groß, A., **Singh, A.**, Banh, N. C., Richter, B., Scharlau, I., Rohlfing, K. J., & Wrede, B. (2023). Scaffolding the human partner by contrastive guidance in an explanatory human-robot dialogue. *Frontiers in Robotics and AI, 10*. [doi: 10.3389/frobt.2023.1236184](https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract)
 
+* Wildt, E., **Singh, A.**, & Rohlfing, K.J. (2025). Infants’ individual differences in the sensitivity toward saliency influence early word learning in social interaction. *Acta Psychologica*. (under-review)
 
 
 ### Conference contributions (Peer-reviewed)
