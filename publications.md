@@ -1,7 +1,7 @@
 ### Research articles 
-* **Singh, A.** and Rohlfing, K.J. (2025), Contrastive Verbal Guidance: A Beneficial Context for Attention To Events and Their Memory?. Cognitive Science, 49: e70096. [https://doi.org/10.1111/cogs.70096](https://doi.org/10.1111/cogs.70096)
+* **Singh, A.** and Rohlfing, K.J. (2025), Contrastive Verbal Guidance: A Beneficial Context for Attention To Events and Their Memory? Cognitive Science, 49: e70096. [https://doi.org/10.1111/cogs.70096](https://doi.org/10.1111/cogs.70096)
 
-* Wildt, E., **Singh, A.**, & Rohlfing, K.J. (2025). Infants’ individual differences in the sensitivity toward saliency influence early word learning in social interaction. *Acta Psychologica*. (under-review)
+* Wildt, E., **Singh, A.**, & Rohlfing, K.J. (2025). Infants’ individual differences in the sensitivity toward saliency influence early word learning in social interaction. *Acta Psychologica*. (under review)
 
 * Groß, A., **Singh, A.**, Banh, N. C., Richter, B., Scharlau, I., Rohlfing, K. J., & Wrede, B. (2023). Scaffolding the human partner by contrastive guidance in an explanatory human-robot dialogue. *Frontiers in Robotics and AI, 10*. [10.3389/frobt.2023.1236184](https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract)
 
@@ -12,7 +12,7 @@
 
 * **Singh, A.**, Rohlfing, K.J. (2025). Embedding Psycholinguistics: An Interactive Framework for Studying Language in Action, *6th Biannual Conference of the German Society for Cognitive Science (KogWis 2025)*, Ruhr-University Bochum, Germany. (Talk)
 
-* **Singh, A.**, & Rohlfing, K.J. (2024). Coupling of Task and Partner Model: Investigating the Intra-Individual Variability in Gaze during Human–Robot Explanatory Dialogue. *26th ACM International Conference on Multimodal Interaction (ACM ICMI 2024)*, Costa Rica. (Talk)[Proceeding:https://doi.org/10.1145/3686215.3689202](https://doi.org/10.1145/3686215.3689202)
+* **Singh, A.**, & Rohlfing, K.J. (2024). Coupling of Task and Partner Model: Investigating the Intra-Individual Variability in Gaze during Human–Robot Explanatory Dialogue. *26th ACM International Conference on Multimodal Interaction (ACM ICMI 2024)*, Costa Rica. (Talk) [https://doi.org/10.1145/3686215.3689202](https://doi.org/10.1145/3686215.3689202)
 
 * **Singh, A.**, & Rohlfing, K.J. (2023). Contrastiveness in the context of action demonstration: an eye-tracking study on its effects on action perception and action recall. *Proceedings of the Annual Meeting of the Cognitive Science Society, 45*, Sydney, Australia. [https://escholarship.org/uc/item/2w94t4cv](https://escholarship.org/uc/item/2w94t4cv)
 
