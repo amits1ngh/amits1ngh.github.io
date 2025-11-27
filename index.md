@@ -31,3 +31,16 @@ My hope is to utilize these findings to incorporate verbal scaffolding strategie
 *source: SprachSpielLabor, Paderborn University
 
 
+
+## Updates
+
+
+<div class="video-wrapper" id="video-overview">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/h2ZzJB7nyt0?si=zLi3J00ospjOBiHH"
+    title="19.10.2025, Talk at IEEE International Conference on Development and Learning (ICDL) 2025, Prague"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
