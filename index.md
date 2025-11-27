@@ -27,14 +27,12 @@ My hope is to utilize these findings to incorporate verbal scaffolding strategie
   <tr>
     <td><img src="images/scenario.gif"></td>
   </tr>
- </table>
-
+</table>
 
 
 
 ## Updates
 
-- **October 2025:** Talk at the [IEEE International Conference on Development and Learning (ICDL) 2025](https://icdl2025.org/) in Prague.
 
 <div class="video-wrapper" id="video-overview">
   <iframe
