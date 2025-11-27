@@ -28,12 +28,11 @@ My hope is to utilize these findings to incorporate verbal scaffolding strategie
     <td><img src="images/scenario.gif"></td>
   </tr>
  </table>
-*source: SprachSpielLabor, Paderborn University
+
 
 
 
 ## Updates
-
 
 <div class="video-wrapper" id="video-overview">
   <iframe
