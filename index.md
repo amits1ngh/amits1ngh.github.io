@@ -34,7 +34,8 @@ My hope is to utilize these findings to incorporate verbal scaffolding strategie
 
 ## Updates
 
-- **October 2025:** Talk at the [IEEE International Conference on Development and Learning (ICDL) 2025](https://icdl2025.org/) in Prague. [Video of the talk below.](#video-overview)
+- **October 2025:** Talk at the [IEEE International Conference on Development and Learning (ICDL) 2025](https://icdl2025.org/) in Prague.
+
 <div class="video-wrapper" id="video-overview">
   <iframe
     src="https://www.youtube-nocookie.com/embed/h2ZzJB7nyt0?si=zLi3J00ospjOBiHH"
