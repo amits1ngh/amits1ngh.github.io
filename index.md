@@ -81,7 +81,7 @@ title: Amit Singh
 </section>
 
 <section class="section">
-  <figure class="image-card">
+  <figure class="image-card image-card--half">
     <img src="/files/WinGaze-demo.gif" alt="WinGaze demo animation">
     <figcaption>WinGaze demo animation from human-robot interaction studies.</figcaption>
   </figure>
