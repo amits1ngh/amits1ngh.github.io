@@ -237,8 +237,21 @@ hr {
     gap: 16px;
 }
 
-.profile-picture {
+.profile-stack {
+    display: grid;
+    gap: 16px;
     width: 100%;
+    justify-items: end;
+}
+
+.profile-stack .contact-grid {
+    width: 100%;
+    justify-self: stretch;
+    grid-template-columns: 1fr;
+}
+
+.profile-picture {
+    width: 25%;
     border-radius: var(--radius-lg);
     object-fit: cover;
     border: 6px solid rgba(255, 255, 255, 0.9);
@@ -494,6 +507,14 @@ hr {
     .hero {
         grid-template-columns: 1fr;
         padding: 24px;
+    }
+
+    .profile-stack {
+        justify-items: start;
+    }
+
+    .profile-picture {
+        width: 40%;
     }
 }
 
