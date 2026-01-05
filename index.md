@@ -44,7 +44,7 @@ title: Amit Singh
     </div>
   </div>
   <div class="hero-media">
-    <img class="profile-picture" src="profile_picture_updated.jpg" alt="Portrait of Amit Singh">
+      <img class="profile-picture" src="/images/profile_picture_updated.jpg" alt="Portrait of Amit Singh">
     <div class="hero-card">
       <h3>Research focus</h3>
       <p>
