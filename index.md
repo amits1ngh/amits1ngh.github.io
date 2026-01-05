@@ -6,7 +6,6 @@ title: Amit Singh
 <section class="hero">
   <div class="hero-text">
     <p class="eyebrow">Doctoral Candidate - Psycholinguistics - Paderborn University</p>
-    <h1>Amit Singh</h1>
     <p class="lead">
       I am a doctoral candidate at SFB TRR318 "Constructing Explainability", a collaborative research
       center at Paderborn and Bielefeld University.

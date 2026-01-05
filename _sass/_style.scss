@@ -240,8 +240,9 @@ hr {
 .profile-stack {
     display: grid;
     gap: 16px;
-    width: 100%;
-    justify-items: end;
+    width: calc(25% + 1in);
+    justify-self: end;
+    justify-items: stretch;
 }
 
 .profile-stack .contact-grid {
@@ -251,7 +252,7 @@ hr {
 }
 
 .profile-picture {
-    width: 25%;
+    width: 100%;
     border-radius: var(--radius-lg);
     object-fit: cover;
     border: 6px solid rgba(255, 255, 255, 0.9);
@@ -519,11 +520,12 @@ hr {
     }
 
     .profile-stack {
-        justify-items: start;
+        width: min(260px, 80%);
+        justify-self: start;
     }
 
     .profile-picture {
-        width: 40%;
+        width: 100%;
     }
 }
 
