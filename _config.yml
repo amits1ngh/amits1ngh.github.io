@@ -5,6 +5,8 @@ baseurl: "/"
 markdown: kramdown
 # twitter_username: 
 tracking_id: UA-108355039-1
+favicon: true
+favicon_location: /images/favicon.ico
 
 collections:
   - projects
