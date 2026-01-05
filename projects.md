@@ -1,22 +1,23 @@
-<div style="display: flex; align-items: flex-start; gap: 30px; max-width: 1200px;">
-  
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
 
-  <div style="flex: 1;">
-    <img src="files/WinGaze-demo.gif" alt="WinGaze Demo" style="width:100%; border-radius:8px;">
-    <h3>WinGaze</h3>
-    <p>
-      WinGaze is a tool for aligning and visualizing eye gaze data from human-robot interaction (HRI)
-      experiments with manual annotations (e.g., from ELAN). It enables detailed exploration of gaze
-      patterns within annotated time windows to support behavioral analysis.
-    </p>
-    <p>
-      <a href="https://github.com/amits1ngh/WinGaze">View on GitHub</a>
-    </p>
+<section class="section">
+  <h1>Projects</h1>
+  <div class="project-grid">
+    <article class="project-card">
+      <img src="files/WinGaze-demo.gif" alt="WinGaze demo">
+      <div class="project-card__body">
+        <h3>WinGaze</h3>
+        <p>
+          WinGaze is a tool for aligning and visualizing eye gaze data from human-robot interaction (HRI)
+          experiments with manual annotations (for example, from ELAN). It enables detailed exploration
+          of gaze patterns within annotated time windows to support behavioral analysis.
+        </p>
+        <a class="button-link secondary" href="https://github.com/amits1ngh/WinGaze">View on GitHub</a>
+      </div>
+    </article>
   </div>
-  
-
-  <div style="flex: 1;">
-   
-  </div>
-
-</div>
+</section>
