@@ -23,40 +23,33 @@ title: Amit Singh
       <span class="pill">Human-robot interaction</span>
       <span class="pill">Multimodal communication</span>
     </div>
+    <div class="contact-grid">
+      <div class="contact-item">
+        <span class="label">Office</span>
+        <span>
+          Psycholinguistics<br>
+          Zukunftsmeile 2<br>
+          33102 Paderborn, Germany
+        </span>
+      </div>
+      <div class="contact-item">
+        <span class="label">Phone</span>
+        <span>+49-(0)5251-60-4491</span>
+      </div>
+      <div class="contact-item">
+        <span class="label">Email</span>
+        <span>amit.singh@uni-paderborn.de</span>
+      </div>
+    </div>
+  </div>
+  <div class="hero-media">
+      <img class="profile-picture" src="/images/profile_picture_updated.jpg" alt="Portrait of Amit Singh">
     <div class="hero-card">
       <h3>Research focus</h3>
       <p>
         My work examines the online dynamics of multimodal integration (language and vision) in
         human-human and human-robot interaction settings.
       </p>
-      <ul class="meta-list">
-        <li>Shared context and mutual understanding</li>
-        <li>Visual and verbal cue integration</li>
-        <li>Coordination of joint actions</li>
-      </ul>
-    </div>
-  </div>
-  <div class="hero-media">
-    <div class="profile-stack">
-      <img class="profile-picture" src="/images/profile_picture_updated.jpg" alt="Portrait of Amit Singh">
-      <div class="contact-grid">
-        <div class="contact-item">
-          <span class="label">Office</span>
-          <span>
-            Psycholinguistics<br>
-            Zukunftsmeile 2<br>
-            33102 Paderborn, Germany
-          </span>
-        </div>
-        <div class="contact-item">
-          <span class="label">Phone</span>
-          <span>+49-(0)5251-60-4491</span>
-        </div>
-        <div class="contact-item">
-          <span class="label">Email</span>
-          <span>amit dot singh at uni hyphen paderborn dot de</span>
-        </div>
-      </div>
     </div>
   </div>
 </section>
@@ -80,9 +73,9 @@ title: Amit Singh
 </section>
 
 <section class="section">
-  <figure class="image-card image-card--half">
-    <img src="/files/WinGaze-demo.gif" alt="WinGaze demo animation">
-    <figcaption>WinGaze demo animation from human-robot interaction studies.</figcaption>
+  <figure class="image-card">
+    <img src="images/scenario.gif" alt="Scenario illustration from multimodal interaction studies">
+    <figcaption>Scenario illustration from multimodal interaction studies.</figcaption>
   </figure>
 </section>
 
