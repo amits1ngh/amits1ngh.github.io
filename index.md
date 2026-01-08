@@ -68,7 +68,7 @@ title: Amit Singh
 
 <section class="section">
   <figure class="image-card">
-    <img src="images/scenario.gif" alt="Scenario illustration from multimodal interaction studies">
+    <img src="files/WinGaze-demo.gif" alt="Scenario illustration from multimodal interaction studies">
     <figcaption>Scenario illustration from multimodal interaction studies.</figcaption>
   </figure>
 </section>
