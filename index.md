@@ -29,9 +29,9 @@ title: Amit Singh
         <span>
           Psycholinguistics<br>
           Zukunftsmeile 2<br>
-          33102 Paderborn, Germany
-          <span>+49-(0)5251-60-4491</span>
-          <span>amit.singh@uni-paderborn.de</span>
+          33102 Paderborn, Germany<br>
+          <span>+49-(0)5251-60-4491</span><br>
+          <span>amit.singh@uni-paderborn.de</span><br>
         </span>
       </div>
     </div>
