@@ -23,6 +23,16 @@ title: Amit Singh
       <span class="pill">Human-robot interaction</span>
       <span class="pill">Multimodal communication</span>
     </div>
+    <div class="hero-card">
+      <h3>Research focus</h3>
+      <p>
+        My work examines the online dynamics of multimodal integration (language and vision) in
+        human-human and human-robot interaction settings.
+      </p>
+    </div>
+  </div>
+  <div class="hero-media">
+    <img class="profile-picture" src="/images/profile_picture_updated.jpg" alt="Portrait of Amit Singh">
     <div class="contact-grid">
       <div class="contact-item">
         <span class="label">Office</span>
@@ -34,16 +44,6 @@ title: Amit Singh
           <span>amit.singh@uni-paderborn.de</span><br>
         </span>
       </div>
-    </div>
-  </div>
-  <div class="hero-media">
-      <img class="profile-picture" src="/images/profile_picture_updated.jpg" alt="Portrait of Amit Singh">
-    <div class="hero-card">
-      <h3>Research focus</h3>
-      <p>
-        My work examines the online dynamics of multimodal integration (language and vision) in
-        human-human and human-robot interaction settings.
-      </p>
     </div>
   </div>
 </section>
@@ -67,14 +67,14 @@ title: Amit Singh
 </section>
 
 <section class="section">
-  <figure class="image-card">
+  <figure class="image-card image-card--half">
     <img src="files/WinGaze-demo.gif" alt="Scenario illustration from multimodal interaction studies">
     <figcaption>Scenario illustration from multimodal interaction studies.</figcaption>
   </figure>
 </section>
 
 <section class="section">
-  <div class="media-card" id="video-overview">
+  <div class="media-card media-card--half" id="video-overview">
     <div class="media-card__header">
       <h2>Recent talk</h2>
       <p>19.10.2025, Talk at IEEE International Conference on Development and Learning (ICDL) 2025, Prague.</p>
