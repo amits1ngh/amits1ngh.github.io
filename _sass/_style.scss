@@ -372,6 +372,12 @@ hr {
     box-shadow: var(--shadow-soft);
 }
 
+.media-card--half {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .media-links {
     display: flex;
     flex-wrap: wrap;
@@ -537,6 +543,10 @@ hr {
     }
 
     .image-card--half {
+        width: 100%;
+    }
+
+    .media-card--half {
         width: 100%;
     }
 }
