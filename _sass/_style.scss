@@ -252,7 +252,8 @@ hr {
 }
 
 .profile-picture {
-    width: 100%;
+    width: 50%;
+    justify-self: center;
     border-radius: var(--radius-lg);
     object-fit: cover;
     border: 6px solid rgba(255, 255, 255, 0.9);
@@ -525,7 +526,7 @@ hr {
     }
 
     .profile-picture {
-        width: 100%;
+        width: 50%;
     }
 }
 
