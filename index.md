@@ -37,8 +37,10 @@ title: Amit Singh
         <div class="contact-item">
           <span class="label">Office</span>
           <span>
+            ZM2.B.02.26<br>
             Zukunftsmeile 2<br>
-            Paderborn, Germany<br>
+            33102 Paderborn<br>
+            Germany<br>
             <span>amit.singh@upb.de</span><br>
           </span>
         </div>
