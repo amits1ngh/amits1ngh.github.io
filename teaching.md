@@ -22,12 +22,12 @@ permalink: /teaching/
   <ul class="publication-list">
     <li>
       <p>
-        <a href="{{ site.baseurl }}teachingmaterials/Einfu%CC%88hrung_eyetracking.pdf">Einf&#xFC;hrung in Eyetracking</a>
+        <a href="{{ site.baseurl }}teachingmaterials/Einf%C3%BChrung_eyetracking.pdf">Einf&#xFC;hrung in Eyetracking</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="{{ site.baseurl }}teachingmaterials/Einfu%CC%88hrung_Eyetracking-Systyp.pdf">Einf&#xFC;hrung in Eyetracking (Systyp)</a>
+        <a href="{{ site.baseurl }}teachingmaterials/Einf%C3%BChrung_Eyetracking-Systyp.pdf">Einf&#xFC;hrung in Eyetracking (Systyp)</a>
       </p>
     </li>
   </ul>

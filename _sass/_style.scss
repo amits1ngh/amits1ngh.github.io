@@ -247,7 +247,7 @@ hr {
 .profile-stack {
     display: grid;
     gap: 16px;
-    width: min(260px, 100%);
+    width: min(300px, 100%);
     justify-self: end;
     justify-items: stretch;
 }
@@ -534,7 +534,7 @@ hr {
     }
 
     .profile-stack {
-        width: min(240px, 80%);
+        width: min(260px, 85%);
         justify-self: start;
     }
 }
