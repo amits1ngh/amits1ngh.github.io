@@ -22,12 +22,12 @@ permalink: /teaching/
   <ul class="publication-list">
     <li>
       <p>
-        <a href="{{ site.baseurl }}teachingmaterials/Einfuehrung_eyetracking.pdf">Einf&#xFC;hrung in Eyetracking</a>
+        <a href="https://github.com/amits1ngh/amits1ngh.github.io/blob/master/teachingmaterials/Einfuehrung_eyetracking.pdf">Einf&#xFC;hrung in Eyetracking</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="{{ site.baseurl }}teachingmaterials/Einfuehrung_Eyetracking-Systyp.pdf">Einf&#xFC;hrung in Eyetracking (Systyp)</a>
+        <a href="https://github.com/amits1ngh/amits1ngh.github.io/blob/master/teachingmaterials/Einfuehrung_Eyetracking-Systyp.pdf">Einf&#xFC;hrung in Eyetracking (Systyp)</a>
       </p>
     </li>
   </ul>
