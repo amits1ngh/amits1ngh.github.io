@@ -5,7 +5,6 @@ title: Amit Singh
 
 <section class="hero">
   <div class="hero-text">
-    <p class="eyebrow">Doctoral Candidate - Psycholinguistics - Paderborn University</p>
     <p class="lead">
       I am a doctoral candidate at SFB TRR318 "Constructing Explainability", a collaborative research
       center at Paderborn and Bielefeld University.
@@ -16,7 +15,7 @@ title: Amit Singh
       <a href="https://www.uni-paderborn.de/person/50352">Prof. Dr. Katharina Rohlfing</a>,
       <a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10380">Prof. Dr.-Ing. Britta Wrede</a>,
       and <a href="https://kw.uni-paderborn.de/fach-psychologie/kognitive-psychologie/">Prof. Dr. Ingrid Scharlau</a>.
-      Before joining SFB, I completed a Master's in Cognitive Science.
+      Before joining SFB, I studied Germanistik at <a href="https://www.jnu.ac.in/main/">JNU, India</a> and later completed my Master’s in Cognitive Science. 
     </p>
     <div class="pill-row">
       <span class="pill">Eye tracking</span>
@@ -37,11 +36,9 @@ title: Amit Singh
       <div class="contact-item">
         <span class="label">Office</span>
         <span>
-          Psycholinguistics<br>
           Zukunftsmeile 2<br>
-          33102 Paderborn, Germany<br>
-          <span>+49-(0)5251-60-4491</span><br>
-          <span>amit.singh@uni-paderborn.de</span><br>
+          Paderborn, Germany<br>
+          <span>amit.singh@upb.de</span><br>
         </span>
       </div>
     </div>
