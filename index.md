@@ -31,15 +31,17 @@ title: Amit Singh
     </div>
   </div>
   <div class="hero-media">
-    <img class="profile-picture" src="/images/profile_picture_updated.jpg" alt="Portrait of Amit Singh">
-    <div class="contact-grid">
-      <div class="contact-item">
-        <span class="label">Office</span>
-        <span>
-          Zukunftsmeile 2<br>
-          Paderborn, Germany<br>
-          <span>amit.singh@upb.de</span><br>
-        </span>
+    <div class="profile-stack">
+      <img class="profile-picture" src="/images/profile_picture_updated.jpg" alt="Portrait of Amit Singh">
+      <div class="contact-grid">
+        <div class="contact-item">
+          <span class="label">Office</span>
+          <span>
+            Zukunftsmeile 2<br>
+            Paderborn, Germany<br>
+            <span>amit.singh@upb.de</span><br>
+          </span>
+        </div>
       </div>
     </div>
   </div>
