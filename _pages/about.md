@@ -15,7 +15,7 @@ I am a doctoral candidate at [SFB TRR318 "Constructing Explainability"](https://
 I investigate multimodal processes in both [humans](https://doi.org/10.1111/cogs.70096) and [artificial agents](https://doi.org/10.1109/ICDL63968.2025.11204385) to understand the desiderata of successful explanations.
 The core idea across my investigation is to integrate XAI techniques with interpretable cognitive/neurosymbolic models to enable holistic [explanation generation](https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract).
 
-The idea goes beyond applying ‘cognitively agnostic’ classical XAI techniques (such as LIME/SHAP, contrastive explanations) in isolation, and instead utilizes XAI methods within theories and computational models of (language) processing.
+The idea goes beyond applying ‘cognitively agnostic’ classical XAI techniques (such as LIME/SHAP, contrastive explanations) in isolation, and instead utilizes XAI methods within theories and cognitive models of (language) processing.
 
 Methodologically, I study human–human explanation using eyetracking and psycholinguistic experimentation. 
 
