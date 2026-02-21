@@ -12,7 +12,7 @@ redirect_from:
 
 I am a doctoral candidate at [SFB TRR318 "Constructing Explainability"](https://trr318.uni-paderborn.de), a collaborative research center at Paderborn and Bielefeld University. My work lies in the Interdisciplinary intersection of [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) and [Psycholinguistics](https://oecs.mit.edu/pub/y1uhdz0y/release/1). This includes statistical modeling and computational cognitive science.  
 
-I investigate multimodal processes in both [humans](https://doi.org/10.1111/cogs.70096) and [artificial agents](https://doi.org/10.1109/ICDL63968.2025.11204385) to understand explanation processes.
+I investigate multimodal processes in both [humans](https://doi.org/10.1111/cogs.70096) and [artificial agents](https://doi.org/10.1109/ICDL63968.2025.11204385) to understand the desiderata of successful explanations.
 The core idea across my investigation is to integrate XAI techniques with interpretable cognitive/neurosymbolic models to enable holistic [explanation generation](https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract).
 
 The idea goes beyond applying ‘cognitively agnostic’ classical XAI techniques (such as LIME/SHAP, contrastive explanations) in isolation, and instead utilizes XAI methods within theories and computational models of (language) processing.
