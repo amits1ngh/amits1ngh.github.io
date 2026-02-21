@@ -1,0 +1,7 @@
+main:
+  - title: "PROJECTS"
+    url: /projects/
+  - title: "PUBLICATIONS"
+    url: /publications/
+  - title: "TEACHING"
+    url: /teaching/

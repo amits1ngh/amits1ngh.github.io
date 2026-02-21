@@ -1,8 +1,18 @@
-# Researcher
+# Amit Singh - Academic Website
 
-### [Website](http://amits1ngh.github.io)
+Personal academic website built with Jekyll (AcademicPages-based) and hosted on GitHub Pages.
 
+## Live Site
 
-### License
+- https://amits1ngh.github.io
 
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+## Repository Structure
+
+- `_pages/` - main website pages (EN + DE)
+- `_data/navigation.yml` - English top navigation
+- `_data/navigation_de.yml` - German top navigation
+- `_config.yml` - site-wide settings and profile links
+- `files/` - downloadable/media files (e.g., WinGaze GIF)
+- `assets/` - styles, scripts, and publication attachments
+- `teachingmaterials/` - teaching PDFs
+
