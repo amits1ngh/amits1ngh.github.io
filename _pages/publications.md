@@ -10,7 +10,7 @@ de_url: /de/publications/
 
 ## Research articles
 
-- **Singh, A.** and Rohlfing, K.J. (2025), A Method for Studying Online Language--Vision Interplay in Human--Robot Interaction *Journal of Psycholinguistic Research and Applied Psycholinguistics* (under review)
+- **Singh, A.** and Rohlfing, K.J. (2026), A Method for Studying Online Language--Vision Interplay in Human--Robot Interaction. *Journal of Psycholinguistic Research and Applied Psycholinguistics* (under review)
 
 - **Singh, A.** and Rohlfing, K.J. (2025), Contrastive Verbal Guidance: A Beneficial Context for Attention To Events and Their Memory? *Cognitive Science*, 49: e70096. [https://doi.org/10.1111/cogs.70096](https://doi.org/10.1111/cogs.70096)
 
