@@ -10,6 +10,8 @@ de_url: /de/publications/
 
 ## Research articles
 
+- **Singh, A.** and Rohlfing, K.J. (2025), A Method for Studying Online Language--Vision Interplay in Human--Robot Interaction *Journal of Psycholinguistic Research and Applied Psycholinguistics* (under review)
+
 - **Singh, A.** and Rohlfing, K.J. (2025), Contrastive Verbal Guidance: A Beneficial Context for Attention To Events and Their Memory? *Cognitive Science*, 49: e70096. [https://doi.org/10.1111/cogs.70096](https://doi.org/10.1111/cogs.70096)
 
 - Wildt, E., **Singh, A.**, & Rohlfing, K.J. (2025). Infants' individual differences in the sensitivity toward saliency influence early word learning in social interaction. *Acta Psychologica*. (under review)
