@@ -17,6 +17,15 @@ Methodisch untersuche ich menschlich-menschliches Erklären mit Eyetracking und 
 
 Für Human-AI-Teaming arbeite ich mit Foundation Models (Prompting, Feature-Extraktion, Fine-Tuning), [Human-Robot-Interaction](https://doi.org/10.1145/3686215.3689202) und statistischer Modellierung (vor allem Bayesianisch), um Erklärungspraktiken zu quantifizieren.
 
-### Ein Beispielszenario multimodaler Interaktion in HRI
+## Aktuelles
+Ein paar aktuelle Einblicke in meine Arbeit:
 
+### TeaP 2026, Tübingen
+Vor Kurzem habe ich meine Arbeit auf der TeaP 2026 in Tübingen vorgestellt. [Zum Abstract](https://coms.events/teap26/data/abstracts/en/abstract_0089_0594_0255.html)
+
+### IEEE ICDL 2025, Prag
+Auf der IEEE ICDL 2025 in Prag habe ich einen Vortrag zur Sprach- und Visionsinteraktion in dialogischer Mensch-Roboter-Interaktion gehalten. [Vortrag auf YouTube ansehen](https://www.youtube.com/watch?v=h2ZzJB7nyt0)
+
+### WinGaze
+Außerdem habe ich WinGaze entwickelt, ein Tool zur Exploration multimodaler Interaktion in der HRI. [Auf GitHub ansehen](https://github.com/amits1ngh/WinGaze)
 ![Szenario aus Studien zu multimodaler Interaktion](/files/WinGaze-demo.gif)

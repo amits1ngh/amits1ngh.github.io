@@ -24,8 +24,14 @@ For human–AI teaming, I work with foundation models (prompting, feature extrac
 
 
 ## Updates
-### Recent talk at IEEE ICDL 
-[Watch the talk on YouTube](https://www.youtube.com/watch?v=h2ZzJB7nyt0)
-### An example scenario of multimodal interaction within HRI
+A few recent highlights from my work:
 
+### TeaP 2026, Tübingen
+I recently presented my work at TeaP 2026 in Tübingen. [Read the abstract](https://coms.events/teap26/data/abstracts/en/abstract_0089_0594_0255.html)
+
+### IEEE ICDL 2025, Prague
+At IEEE ICDL 2025 in Prague, I gave a talk on language-vision interaction in dialogical human-robot interaction. [Watch the talk on YouTube](https://www.youtube.com/watch?v=h2ZzJB7nyt0)
+
+### WinGaze
+WinGaze: A tool for exploring multimodal interaction in HRI. [View on GitHub](https://github.com/amits1ngh/WinGaze)
 ![Scenario illustration from multimodal interaction studies](/files/WinGaze-demo.gif)
