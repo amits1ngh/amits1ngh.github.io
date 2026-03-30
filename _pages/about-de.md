@@ -20,6 +20,9 @@ Für Human-AI-Teaming arbeite ich mit Foundation Models (Prompting, Feature-Extr
 ## Aktuelles
 Ein paar aktuelle Einblicke in meine Arbeit:
 
+### Das Open-Access-Buch zu Social Explainable AI (sXAI) ist nun erschienen.[Lesen](https://link.springer.com/book/10.1007/978-981-96-5290-7)
+Ich freue mich sehr, mit einem Kapitel zu Explanation Goals zu diesem Band beigetragen zu haben.[Link](https://doi.org/10.1007/978-981-96-5290-7_6)
+
 ### TeaP 2026, Tübingen
 Vor Kurzem habe ich meine Arbeit auf der TeaP 2026 in Tübingen vorgestellt. [Zum Abstract](https://coms.events/teap26/data/abstracts/en/abstract_0089_0594_0255.html)
 

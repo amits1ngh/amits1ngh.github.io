@@ -32,6 +32,9 @@ de_url: /de/publications/
 
 - **Singh, A.**, & Rohlfing, K.J. (2022). Negation processing in action: How action path is interpreted in a negated context? in Frau, F., Bischetti, L., Pompei, C., Scalingi, B., Domaneschi, F., & Bambini, V., Book of Abstracts - *XPRAG 2022*. [DOI](https://doi.org/10.17605/OSF.IO/C4KP2) / [Abstract](/assets/XPRAG2022_Abstract_NegationAction.pdf) / [Poster](/assets/Singh_Poster_XPRAG2022.pdf)
 
+## Book Chapter
+Rohlfing, K.J., **Singh, A.**, Groß, A., Wrede, B. (2026). Explanation Goals. In: Rohlfing, K.J., Främling, K., Lim, B., Alpsancar, S., Thommes, K. (eds) Social Explainable AI. Springer, Singapore. [https://doi.org/10.1007/978-981-96-5290-7_6](https://doi.org/10.1007/978-981-96-5290-7_6)
+
 ## Invited talks
 
 - Impact of contrastive repair on online attention in Human-Robot explanatory dialogue, *Physics of Cognition Group*, TU Chemnitz, December 2023.

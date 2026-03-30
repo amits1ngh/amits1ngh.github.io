@@ -26,6 +26,9 @@ For human–AI teaming, I work with foundation models (prompting, feature extrac
 ## Updates
 A few recent highlights from my work:
 
+### the open-access book on Social Explainable AI (sXAI) is now out![Read](https://link.springer.com/book/10.1007/978-981-96-5290-7)
+I contributed a chapter on Explanation Goals.[Link](https://doi.org/10.1007/978-981-96-5290-7_6)
+
 ### TeaP 2026, Tübingen
 I recently presented my work at TeaP 2026 in Tübingen. [Read the abstract](https://coms.events/teap26/data/abstracts/en/abstract_0089_0594_0255.html)
 
