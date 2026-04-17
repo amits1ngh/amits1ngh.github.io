@@ -10,16 +10,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher at [SFB TRR318 "Constructing Explainability"](https://trr318.uni-paderborn.de), a Collaborative Research Center at Paderborn and Bielefeld University. I am supervised by Prof. Dr. Katharina J. Rohlfing, with Prof. Dr.-Ing. Britta Wrede as co-PI in [Project A05](https://trr318.uni-paderborn.de/en/projects/a05). My work lies at the interdisciplinary intersection of [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) and [Psycholinguistics](https://oecs.mit.edu/pub/y1uhdz0y/release/1). This includes statistical modeling and computational cognitive science. Before joining SFB TRR318, I completed an M.Sc. in Cognitive Science and a Bachelor’s in Germanistik from [JNU]().
+I am a doctoral researcher at [SFB TRR318 "Constructing Explainability"](https://trr318.uni-paderborn.de), a Collaborative Research Center at Paderborn and Bielefeld University. I am supervised by Prof. Dr. Katharina J. Rohlfing, with Prof. Dr.-Ing. Britta Wrede as co-PI in [Project A05](https://trr318.uni-paderborn.de/en/projects/a05). My work lies at the interdisciplinary intersection of [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) and [Psycholinguistics](https://oecs.mit.edu/pub/y1uhdz0y/release/1). This includes statistical modeling and (computational) cognitive science. Before joining SFB TRR318, I completed an M.Sc. in Cognitive Science and a Bachelor’s in Germanistik from [JNU](https://en-wikipedia-org.translate.goog/wiki/Jawaharlal_Nehru_University?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=rq).
 
-I investigate multimodal processes in both [humans](https://doi.org/10.1111/cogs.70096) and [artificial agents](https://doi.org/10.1109/ICDL63968.2025.11204385) to understand the desiderata of successful explanations.
-The core idea across my investigation is to integrate XAI techniques with interpretable cognitive/neurosymbolic models to enable holistic [explanation generation](https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract).
-
-The idea goes beyond applying ‘cognitively agnostic’ classical XAI techniques (such as LIME/SHAP, contrastive explanations) in isolation, and instead utilizes XAI methods within theories and cognitive models of (language) processing.
+I investigate multimodal processes in both [humans](https://doi.org/10.1111/cogs.70096) and [artificial agents](https://doi.org/10.1109/ICDL63968.2025.11204385) to better understand the desiderata of successful explanations. In particular, I am keen to bring established methods from psycholingustics and cognitive science, such as online language processing, language-vision interaction and visual world paradigms, into HRI and explanability research. 
 
 Methodologically, I study human–human explanation using eyetracking and psycholinguistic experimentation. 
 
-For human–AI teaming, I work with foundation models (prompting, feature extraction, fine-tuning), [Human-Robot Interaction](https://doi.org/10.1145/3686215.3689202), and statistical modeling (mostly Bayesian) to quantify explanation practices.
+For human–AI teaming, I work with foundation models, [Human-Robot Interaction](https://doi.org/10.1145/3686215.3689202), and statistical modeling (mostly Bayesian).
 
 
 
