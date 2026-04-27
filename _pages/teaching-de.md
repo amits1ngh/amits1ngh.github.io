@@ -2,7 +2,7 @@
 layout: single
 title: "Lehre"
 permalink: /de/teaching/
-author_profile: true
+author_profile: false
 lang: de
 en_url: /teaching/
 de_url: /de/teaching/

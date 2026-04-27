@@ -2,7 +2,7 @@
 layout: single
 title: "Projects"
 permalink: /projects/
-author_profile: true
+author_profile: false
 lang: en
 en_url: /projects/
 de_url: /de/projects/

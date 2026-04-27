@@ -2,7 +2,7 @@
 layout: single
 title: "Publikationen"
 permalink: /de/publications/
-author_profile: true
+author_profile: false
 lang: de
 en_url: /publications/
 de_url: /de/publications/
