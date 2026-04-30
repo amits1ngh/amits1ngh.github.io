@@ -7,7 +7,7 @@ lang: en
 en_url: /projects/
 de_url: /de/projects/
 ---
-## Project A05, TRR 318, Constructing Explinability.
+## Project A05, TRR 318, Constructing Explainability.
 Kontextualisiertes Scaffolding im Mensch-Roboter-Erklärdialog [https://trr318.uni-paderborn.de/en/projects/a05](https://trr318.uni-paderborn.de/en/projects/a05)
 
 
