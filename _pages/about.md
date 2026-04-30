@@ -22,6 +22,9 @@ For human–AI teaming, I work with foundation models, [Human-Robot Interaction]
 
 ## Updates
 A few recent highlights from my work:
+### 🎉 Paper accepted at *Acta Psychologica*
+A recent paper analyzing eye-tracking data (preferential-looking paradigm) has been accepted for publication in Acta Psychologica. 
+The study shows how *individual differences* in infants’ preference for the salient object shape word learning.
 
 ### The open-access book on Social Explainable AI (sXAI) is now out.[Read](https://link.springer.com/book/10.1007/978-981-96-5290-7)
 I contributed a chapter on Explanation Goals.[Link](https://doi.org/10.1007/978-981-96-5290-7_6)
