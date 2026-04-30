@@ -21,7 +21,6 @@ For human–AI teaming, I work with foundation models, [Human-Robot Interaction]
 
 
 ## Updates
-A few recent highlights from my work:
 ### 🎉 Paper accepted at *Acta Psychologica*
 A recent paper analyzing eye-tracking data (preferential-looking paradigm) has been accepted for publication in Acta Psychologica. 
 The study shows how *individual differences* in infants’ preference for the salient object shape word learning.
