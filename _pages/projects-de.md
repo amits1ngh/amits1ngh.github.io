@@ -8,10 +8,34 @@ en_url: /projects/
 de_url: /de/projects/
 ---
 
-## WinGaze
+<div class="project-grid">
+  <a class="project-card" href="https://trr318.uni-paderborn.de/projekte/a05">
+    <span class="project-card__media">
+      <img src="/files/project-a05-demo.png" alt="Logo des Teilprojekts A05">
+    </span>
+    <span class="project-card__body">
+      <span class="project-card__title">Teilprojekt A05, TRR 318</span>
+      <span class="project-card__description">Kontextualisiertes Scaffolding im Mensch-Roboter-Erklaerdialog.</span>
+    </span>
+  </a>
 
-![WinGaze Demo](/files/WinGaze-demo.gif)
+  <article class="project-card">
+    <span class="project-card__media">
+      <img src="/files/dialogue-divergence-demo-anonymized.gif" alt="Demo des Dialogue Divergence Monitor">
+    </span>
+    <span class="project-card__body">
+      <span class="project-card__title">Dialogue Divergence Monitor</span>
+      <span class="project-card__description">Dialogue Divergence Monitor ist ein Desktop-Prototyp zur Schaetzung semantischer Divergenzen in Echtzeit waehrend Erklaerungen und zur Online-Vorhersage von Negationsgebrauch mit einem bayesianischen hierarchischen Modell.</span>
+    </span>
+  </article>
 
-WinGaze ist ein Tool zur Synchronisierung und Visualisierung von Blickdaten aus Human-Robot-Interaction-Experimenten (HRI) mit manuellen Annotationen (z. B. aus ELAN). Es ermoeglicht eine detaillierte Analyse von Blickmustern innerhalb annotierter Zeitfenster und unterstuetzt damit die Verhaltensanalyse.
-
-[Auf GitHub ansehen](https://github.com/amits1ngh/WinGaze)
+  <a class="project-card" href="https://github.com/amits1ngh/WinGaze">
+    <span class="project-card__media">
+      <img src="/files/WinGaze-demo.gif" alt="WinGaze Demo">
+    </span>
+    <span class="project-card__body">
+      <span class="project-card__title">WinGaze</span>
+      <span class="project-card__description">Ein Tool zur Synchronisierung mobiler Eye-Tracking-Daten mit ELAN-Annotationen.</span>
+    </span>
+  </a>
+</div>

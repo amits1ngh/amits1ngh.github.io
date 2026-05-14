@@ -1,0 +1,15 @@
+{% assign figures = include.figures | split: "," %}
+{% assign figure_alt = include.alt | default: "Representative figure from this publication" %}
+{% assign publication_href = include.href | default: "#" %}
+<span class="publication-figures" aria-label="Representative figures">
+  <a class="publication-figure publication-figure--count-{{ figures.size }}" href="{{ publication_href }}" aria-label="{{ figure_alt }}">
+    <span class="publication-figure-grid">
+      {% for figure in figures %}
+        {% assign figure_path = figure | strip %}
+        {% assign encoded_figure_path = figure_path | replace: " ", "%20" %}
+        {% assign image_src = site.baseurl | append: "/assets/publication-thumbnails/" | append: encoded_figure_path %}
+        <img src="{{ image_src }}" alt="" loading="lazy" decoding="async">
+      {% endfor %}
+    </span>
+  </a>
+</span>

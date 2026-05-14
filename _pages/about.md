@@ -36,4 +36,4 @@ At IEEE ICDL 2025 in Prague, I gave a talk on language-vision interaction in dia
 
 ### WinGaze
 WinGaze: A tool for exploring multimodal interaction in HRI. [View on GitHub](https://github.com/amits1ngh/WinGaze)
-![Scenario illustration from multimodal interaction studies](/files/WinGaze-demo.gif)
+<img class="news-thumbnail" src="/files/WinGaze-demo.gif" alt="Scenario illustration from multimodal interaction studies">

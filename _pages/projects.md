@@ -7,14 +7,35 @@ lang: en
 en_url: /projects/
 de_url: /de/projects/
 ---
-## Project A05, TRR 318, Constructing Explainability.
-Kontextualisiertes Scaffolding im Mensch-Roboter-Erklärdialog [https://trr318.uni-paderborn.de/en/projects/a05](https://trr318.uni-paderborn.de/en/projects/a05)
 
+<div class="project-grid">
+  <a class="project-card" href="https://trr318.uni-paderborn.de/en/projects/a05">
+    <span class="project-card__media">
+      <img src="/files/project-a05-demo.png" alt="Project A05 logo">
+    </span>
+    <span class="project-card__body">
+      <span class="project-card__title">Project A05, TRR 318</span>
+      <span class="project-card__description">Contextualized scaffolding in human-robot explanatory dialogue.</span>
+    </span>
+  </a>
 
-## WinGaze (A tool for synchronizing mobile eye-tracking data with ELAN annotations)
+  <article class="project-card">
+    <span class="project-card__media">
+      <img src="/files/dialogue-divergence-demo-anonymized.gif" alt="Dialogue Divergence Monitor demo">
+    </span>
+    <span class="project-card__body">
+      <span class="project-card__title">Dialogue Divergence Monitor</span>
+      <span class="project-card__description">Dialogue Divergence Monitor is a desktop prototype for estimating real-time semantic divergences during explanations and predicting negation use online with a Bayesian hierarchical model.</span>
+    </span>
+  </article>
 
-![WinGaze demo](/files/WinGaze-demo.gif)
-
-WinGaze is a tool for aligning and visualizing eye gaze data from human-robot interaction (HRI) experiments with manual annotations (from ELAN). It enables detailed exploration of gaze patterns within annotated time windows to support behavioral analysis.
-
-[View on GitHub](https://github.com/amits1ngh/WinGaze)
+  <a class="project-card" href="https://github.com/amits1ngh/WinGaze">
+    <span class="project-card__media">
+      <img src="/files/WinGaze-demo.gif" alt="WinGaze demo">
+    </span>
+    <span class="project-card__body">
+      <span class="project-card__title">WinGaze</span>
+      <span class="project-card__description">A tool for synchronizing mobile eye-tracking data with ELAN annotations.</span>
+    </span>
+  </a>
+</div>

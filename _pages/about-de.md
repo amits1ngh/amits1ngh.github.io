@@ -28,4 +28,4 @@ Auf der IEEE ICDL 2025 in Prag habe ich einen Vortrag zur Sprach- und Visionsint
 
 ### WinGaze
 Außerdem habe ich WinGaze entwickelt, ein Tool zur Exploration multimodaler Interaktion in der HRI. [Auf GitHub ansehen](https://github.com/amits1ngh/WinGaze)
-![Szenario aus Studien zu multimodaler Interaktion](/files/WinGaze-demo.gif)
+<img class="news-thumbnail" src="/files/WinGaze-demo.gif" alt="Szenario aus Studien zu multimodaler Interaktion">
