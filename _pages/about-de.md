@@ -17,6 +17,9 @@ Im Bereich Human-AI Teaming arbeite ich mit Foundation Models, [Human-Robot-Inte
 ## Aktuelles
 Ein paar aktuelle Einblicke in meine Arbeit:
 
+### Paper auf der IEEE ICDL 2026 angenommen
+Mein Paper *A Divergence Model of Scaffolding in Dialogue via Negation* wurde bei der IEEE International Conference on Development and Learning (ICDL 2026) angenommen. Die Studie modelliert, wie Divergenz zwischen den Kontextrepräsentationen von Dialogpartnern mit der Verwendung von Negation zusammenhängt, und beschreibt Negation als Scaffolding, das Missverständnisse im Dialog explizit machen kann. [Zur Publikationsliste](/de/publications/)
+
 ### Das Open-Access-Buch zu Social Explainable AI (sXAI) ist nun erschienen.[Lesen](https://link.springer.com/book/10.1007/978-981-96-5290-7)
 Ich freue mich sehr, mit einem Kapitel zu Explanation Goals zu diesem Band beigetragen zu haben.[Link](https://doi.org/10.1007/978-981-96-5290-7_6)
 

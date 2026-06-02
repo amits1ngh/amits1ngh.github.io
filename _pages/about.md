@@ -21,6 +21,9 @@ For human–AI teaming, I work with foundation models, [Human-Robot Interaction]
 
 
 ## Updates
+### 🎉 Paper accepted at *IEEE ICDL 2026*
+Our paper *A Divergence Model of Scaffolding in Dialogue via Negation* has been accepted at the IEEE International Conference on Development and Learning (ICDL 2026). The study explores how divergence between dialogue partners' representations of context relates to the use of negation. [Publication list](/publications/)
+
 ### 🎉 Paper accepted at *Acta Psychologica*
 A recent paper analyzing eye-tracking data (preferential-looking paradigm) has been accepted for publication in Acta Psychologica. 
 The study shows how *individual differences* in infants’ preference for the salient object shape word learning. [Link](https://www.sciencedirect.com/science/article/pii/S000169182600778X)
