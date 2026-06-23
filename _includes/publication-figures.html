@@ -2,7 +2,7 @@
 {% assign figure_alt = include.alt | default: "Representative figure from this publication" %}
 {% assign publication_href = include.href | default: "#" %}
 <span class="publication-figures" aria-label="Representative figures">
-  <a class="publication-figure publication-figure--count-{{ figures.size }}" href="{{ publication_href }}" aria-label="{{ figure_alt }}">
+  <a class="publication-figure publication-figure--count-{{ figures.size }}" href="{{ publication_href }}" aria-label="{{ figure_alt }}"{% if publication_href contains "://" %} target="_blank" rel="noopener noreferrer"{% endif %}>
     <span class="publication-figure-grid">
       {% for figure in figures %}
         {% assign figure_path = figure | strip %}
