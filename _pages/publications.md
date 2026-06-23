@@ -32,7 +32,8 @@ de_url: /de/publications/
 
 <ul class="publication-list">
   <li>
-    <div class="publication-text"><strong>Singh, A.</strong> et al. (2026). A Divergence Model of Scaffolding in Dialogue via Negation. <em>IEEE International Conference on Development and Learning (ICDL 2026)</em>. (Accepted)</div>
+    <div class="publication-text"><strong>Singh, A.</strong>, Görmez, S., Wrede, B. &amp; Rohlfing, Katharina J. (in press). A Divergence Model of Scaffolding in Dialogue via Negation. <em>Proceedings of the 2026 IEEE International Conference on Development and Learning (ICDL)</em>, Kyoto, Japan, 15.–18. September 2026. <a href="/assets/Singh_etal_ICDL2026.pdf" target="_blank" rel="noopener noreferrer">Preprint</a></div>
+    {% include publication-figures.html href="/assets/Singh_etal_ICDL2026.pdf" figures="icdl-2026-page1.jpg" alt="Open ICDL 2026 paper" %}
   </li>
   <li>
     <div class="publication-text"><strong>Singh, A.</strong>, Wrede, B., Birte, R., Groß, A., &amp; Rohlfing, K.J. (2025). Manners Matter: Action history guides attention and repair choices during interaction. <em>IEEE International Conference on Development and Learning (ICDL 2025)</em>, Prague. (Talk) <a href="https://doi.org/10.1109/ICDL63968.2025.11204385" target="_blank" rel="noopener noreferrer">https://doi.org/10.1109/ICDL63968.2025.11204385</a></div>
