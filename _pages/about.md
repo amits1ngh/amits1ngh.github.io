@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [SFB TRR318 "Constructing Explainability"](https://trr318.uni-paderborn.de){:target="_blank" rel="noopener noreferrer"}, a Collaborative Research Center at the Universities of Paderborn and Bielefeld. I work in [Project A05](https://trr318.uni-paderborn.de/en/projects/a05){:target="_blank" rel="noopener noreferrer"} with its principal investigators, Prof. Dr. Katharina J. Rohlfing and Prof. Dr.-Ing. Britta Wrede.
+I am a researcher at [SFB TRR318 "Constructing Explainability"](https://trr318.uni-paderborn.de){:target="_blank" rel="noopener noreferrer"}, a Collaborative Research Center at Paderborn University. I am working in [Project A05](https://trr318.uni-paderborn.de/en/projects/a05){:target="_blank" rel="noopener noreferrer"} alongside its principal investigators, Prof. Dr. Katharina J. Rohlfing and Prof. Dr.-Ing. Britta Wrede.
 
 During my PhD, I worked on extending contrastive explanations, a fundamental method in explainable AI, from one-shot decision settings to interactive human–AI explanatory tasks. This work combines insights from psycholinguistics, computational linguistics, cognitive science, explainable AI, and human–robot interaction.
 

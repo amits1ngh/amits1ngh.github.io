@@ -6,7 +6,7 @@ en_url: /
 de_url: /de/
 ---
 
-Ich bin wissenschaftlicher Mitarbeiter im [SFB TRR318 „Constructing Explainability“](https://trr318.uni-paderborn.de){:target="_blank" rel="noopener noreferrer"}, einem gemeinsamen Sonderforschungsbereich der Universitäten Paderborn und Bielefeld. Im [Teilprojekt A05](https://trr318.uni-paderborn.de/projekte/a05){:target="_blank" rel="noopener noreferrer"} arbeite ich mit den Projektleiterinnen Prof. Dr. Katharina J. Rohlfing und Prof. Dr.-Ing. Britta Wrede zusammen.
+Ich bin wissenschaftlicher Mitarbeiter im [SFB TRR318 „Constructing Explainability“](https://trr318.uni-paderborn.de){:target="_blank" rel="noopener noreferrer"}, ein Sonderforschungsbereich an der Universität Paderborn. Im [Teilprojekt A05](https://trr318.uni-paderborn.de/projekte/a05){:target="_blank" rel="noopener noreferrer"} arbeite ich mit den Projektleiterinnen Prof. Dr. Katharina J. Rohlfing und Prof. Dr.-Ing. Britta Wrede zusammen.
 
 Im Rahmen meiner Promotion arbeitete ich daran, kontrastive Erklärungen – eine grundlegende Methode der erklärbaren künstlichen Intelligenz – von einmaligen Entscheidungssituationen auf interaktive Erklärungsaufgaben zwischen Mensch und KI zu übertragen. Diese Arbeit verbindet Erkenntnisse aus der Psycholinguistik, Computerlinguistik, Kognitionswissenschaft, erklärbaren künstlichen Intelligenz und Mensch-Roboter-Interaktion.
 
