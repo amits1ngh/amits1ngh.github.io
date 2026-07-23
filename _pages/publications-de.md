@@ -16,15 +16,16 @@ de_url: /de/publications/
     {% include publication-figures.html href="https://doi.org/10.1016/j.actpsy.2026.106977" figures="acta-2026-fig2.jpg,acta-2026-fig4.jpg,acta-2026-fig5.jpg,acta_plot_saliency.jpg,acta_plot_slopes.jpg" alt="Open Acta Psychologica paper" %}
   </li>
   <li>
+    <div class="publication-text"><strong>Singh, A.</strong> and Rohlfing, K.J. (2026). A Method for Studying Online Language–Vision Interplay in Human–Robot Interaction. <em>Journal of Psycholinguistic Research</em> (in press). <a href="/assets/JOPR-D-26-00014_R.pdf" target="_blank" rel="noopener noreferrer">Akzeptiertes Manuskript</a></div>
+    {% include publication-figures.html href="/assets/JOPR-D-26-00014_R.pdf" figures="jopr-2026-fig1.jpg,jopr-2026-fig2.jpg,jopr-2026-fig3.jpg,jopr-2026-fig4.jpg,jopr-2026-fig5.jpg,jopr-2026-fig6.jpg" alt="JOPR-Artikel von 2026 öffnen" %}
+  </li>
+  <li>
     <div class="publication-text"><strong>Singh, A.</strong> and Rohlfing, K.J. (2025), Contrastive Verbal Guidance: A Beneficial Context for Attention To Events and Their Memory? <em>Cognitive Science</em>, 49: e70096. <a href="https://doi.org/10.1111/cogs.70096" target="_blank" rel="noopener noreferrer">https://doi.org/10.1111/cogs.70096</a></div>
     {% include publication-figures.html href="https://doi.org/10.1111/cogs.70096" figures="cogs-2025-fig2.jpg,cogs-2025-fig4.jpg,cogs-2025-fig8.jpg,cogs-2025-figure 3.jpg,cogs-2025-figure 4.jpg,cogs-2025-figure 5.jpg,cogs-2025-figure 6.jpg" alt="Open Cognitive Science 2025 paper" %}
   </li>
   <li>
     <div class="publication-text">Gross, A., <strong>Singh, A.</strong>, Banh, N. C., Richter, B., Scharlau, I., Rohlfing, K. J., &amp; Wrede, B. (2023). Scaffolding the human partner by contrastive guidance in an explanatory human-robot dialogue. <em>Frontiers in Robotics and AI</em>, 10. <a href="https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract" target="_blank" rel="noopener noreferrer">https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract</a></div>
     {% include publication-figures.html href="https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract" figures="frontiers-2023-fig1.jpg,frontiers-2023-fig8.jpg,frontiers-2023-fig9.jpg" alt="Open Frontiers in Robotics and AI 2023 paper" %}
-  </li>
-  <li>
-    <div class="publication-text"><strong>Singh, A.</strong> and Rohlfing, K.J. (2026), A Method for Studying Online Language--Vision Interplay in Human--Robot Interaction. <em>Journal of Psycholinguistic Research and Applied Psycholinguistics</em> (under review)</div>
   </li>
 </ul>
 

@@ -10,27 +10,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [SFB TRR318 "Constructing Explainability"](https://trr318.uni-paderborn.de){:target="_blank" rel="noopener noreferrer"}, a Collaborative Research Center at Paderborn and Bielefeld University. My doctoral research, supervised by Prof. Dr. Katharina J. Rohlfing with Prof. Dr.-Ing. Britta Wrede as co-PI in [Project A05](https://trr318.uni-paderborn.de/en/projects/a05){:target="_blank" rel="noopener noreferrer"}, investigated how verbal contrasts, especially negation, shape attention, memory, and action learning in human–human and human–robot interaction. The aim was to develop explanability methods informed by psycholinguistic research and grounded in human cognitive processes.
+I am a researcher at [SFB TRR318 "Constructing Explainability"](https://trr318.uni-paderborn.de){:target="_blank" rel="noopener noreferrer"}, a Collaborative Research Center at the Universities of Paderborn and Bielefeld. I work in [Project A05](https://trr318.uni-paderborn.de/en/projects/a05){:target="_blank" rel="noopener noreferrer"} with its principal investigators, Prof. Dr. Katharina J. Rohlfing and Prof. Dr.-Ing. Britta Wrede.
 
-In general, my work lies at the interdisciplinary intersection of [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/){:target="_blank" rel="noopener noreferrer"} and [Psycholinguistics](https://oecs.mit.edu/pub/y1uhdz0y/release/1){:target="_blank" rel="noopener noreferrer"}. This includes statistical modeling and (computational) cognitive science. Before joining SFB TRR318, I completed an M.Sc. in Cognitive Science and a Bachelor’s in Germanistik from [JNU](https://en-wikipedia-org.translate.goog/wiki/Jawaharlal_Nehru_University?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=rq){:target="_blank" rel="noopener noreferrer"}.
+During my PhD, I worked on extending contrastive explanations, a fundamental method in explainable AI, from one-shot decision settings to interactive human–AI explanatory tasks. This work combines insights from psycholinguistics, computational linguistics, cognitive science, explainable AI, and human–robot interaction.
 
-I am also interested in understanding how multimodal processes in both [humans](https://doi.org/10.1111/cogs.70096){:target="_blank" rel="noopener noreferrer"} and [artificial agents](https://doi.org/10.1109/ICDL63968.2025.11204385){:target="_blank" rel="noopener noreferrer"} contribute to the generation of more understandable explanations. To this end, I am currently working to [bridge the methodological gaps](https://osf.io/ghymr){:target="_blank" rel="noopener noreferrer"} between the disciplines, Psycholinguistics and Human-Robot Interaction, by bringing classical methods from psycholinguistics and cognitive science, such as online language processing and visual world paradigms, into HRI and XAI research.
+I am also interested in understanding multimodal processes in human–AI interaction and how they can contribute to generating more understandable explanations. To this end, I am currently working to bring established methods from psycholinguistics and cognitive science, such as visual-world paradigms, into [HRI and XAI research](/assets/JOPR-D-26-00014_R.pdf){:target="_blank" rel="noopener noreferrer"} to investigate language-vision interaction in real time during human–AI explanation tasks.
 
-Methodologically, I study human–human explanation using eye tracking and psycholinguistic experimentation.
-
-For human–AI teaming, I work with [foundation models](/assets/Singh_etal_ICDL2026.pdf){:target="_blank" rel="noopener noreferrer"}, [Human-Robot Interaction](https://doi.org/10.1145/3686215.3689202){:target="_blank" rel="noopener noreferrer"}, and statistical modeling (mostly Bayesian).
 
 ## Updates
+
+### 🎉 Paper accepted for publication in the *Journal of Psycholinguistic Research*
+Our paper *A Method for Studying Online Language–Vision Interplay in Human–Robot Interaction* has been accepted for publication in the *Journal of Psycholinguistic Research*. [Accepted manuscript](/assets/JOPR-D-26-00014_R.pdf){:target="_blank" rel="noopener noreferrer"}
 
 ### 🎉 PhD successfully defended 🎓
 I successfully defended my doctoral dissertation, *From Negation to Contrast and Context: A Framework for Contrastive Guidance of Actions in Interaction*. [Link](https://kw.uni-paderborn.de/en/institut-fuer-germanistik-und-vergleichende-literaturwissenschaft/germanistische-und-allgemeine-sprachwissenschaft/rohlfing/nachricht/erfolgreiche-verteidigung-der-dissertation-2){:target="_blank" rel="noopener noreferrer"}
 
-### 🎉 Paper accepted for *IEEE ICDL 2026*
-Our paper *A Divergence Model of Scaffolding in Dialogue via Negation* has been accepted for presentation at the IEEE International Conference on Development and Learning (ICDL 2026). The study explores how people build shared understanding during conversation. Often in interaction, two people may begin to understand a task in slightly different ways. The paper shows that negation, for example, by clearly stating what something is not, can help make these differences visible and guide the conversation back in the right direction. [Preprint](/assets/Singh_etal_ICDL2026.pdf){:target="_blank" rel="noopener noreferrer"}
+### 🎉 Paper accepted for presentation at *IEEE ICDL 2026*
+Our paper *A Divergence Model of Scaffolding in Dialogue via Negation* has been accepted for presentation at the IEEE International Conference on Development and Learning (ICDL 2026). The study explores how people build shared understanding during conversation. In conversations, two people may begin with slightly different understandings of a task. The paper shows that negation—for example, clearly stating what something is not—can make these differences visible and guide the conversation back on track. [Preprint](/assets/Singh_etal_ICDL2026.pdf){:target="_blank" rel="noopener noreferrer"}
 
-### 🎉 Paper accepted in *Acta Psychologica*
-A recent paper analyzing eye-tracking data (preferential-looking paradigm) has been accepted for publication in Acta Psychologica.
-The study shows how *individual differences* in infants’ preference for salient object shapes influence word learning. [Link](https://www.sciencedirect.com/science/article/pii/S000169182600778X){:target="_blank" rel="noopener noreferrer"}
+### 🎉 Paper accepted for publication in *Acta Psychologica*
+A recent paper analyzing eye-tracking data from a preferential-looking paradigm has been accepted for publication in *Acta Psychologica*.
+The study shows how *individual differences* in infants’ preferences for salient object shapes influence word learning. [Link](https://www.sciencedirect.com/science/article/pii/S000169182600778X){:target="_blank" rel="noopener noreferrer"}
 
 ### The open-access book on Social Explainable AI (sXAI) is now out. [Read](https://link.springer.com/book/10.1007/978-981-96-5290-7){:target="_blank" rel="noopener noreferrer"}
 I contributed a chapter on Explanation Goals. [Link](https://doi.org/10.1007/978-981-96-5290-7_6){:target="_blank" rel="noopener noreferrer"}
@@ -39,8 +39,8 @@ I contributed a chapter on Explanation Goals. [Link](https://doi.org/10.1007/978
 I recently presented my work at TeaP 2026 in Tübingen. [Read the abstract](https://coms.events/teap26/data/abstracts/en/abstract_0089_0594_0255.html){:target="_blank" rel="noopener noreferrer"}
 
 ### IEEE ICDL 2025, Prague
-At IEEE ICDL 2025 in Prague, I gave a talk on language-vision interaction in dialogical human-robot interaction. [Watch the talk on YouTube](https://www.youtube.com/watch?v=h2ZzJB7nyt0){:target="_blank" rel="noopener noreferrer"}
+At IEEE ICDL 2025 in Prague, I gave a talk on language-vision interaction in human-robot interaction. [Watch the talk on YouTube](https://www.youtube.com/watch?v=h2ZzJB7nyt0){:target="_blank" rel="noopener noreferrer"}
 
 ### WinGaze
-WinGaze: A tool for exploring multimodal interaction in HRI. [View on GitHub](https://github.com/amits1ngh/WinGaze){:target="_blank" rel="noopener noreferrer"}
+WinGaze is a tool for exploring multimodal interaction in HRI. [View on GitHub](https://github.com/amits1ngh/WinGaze){:target="_blank" rel="noopener noreferrer"}
 <img class="news-thumbnail" src="/files/WinGaze-demo.gif" alt="Scenario illustration from multimodal interaction studies">

@@ -12,6 +12,10 @@ de_url: /de/publications/
 
 <ul class="publication-list">
   <li>
+    <div class="publication-text"><strong>Singh, A.</strong> and Rohlfing, K.J. (2026). A Method for Studying Online Language–Vision Interplay in Human–Robot Interaction. <em>Journal of Psycholinguistic Research</em> (in press). <a href="/assets/JOPR-D-26-00014_R.pdf" target="_blank" rel="noopener noreferrer">Accepted manuscript</a></div>
+    {% include publication-figures.html href="/assets/JOPR-D-26-00014_R.pdf" figures="jopr-2026-fig1.jpg,jopr-2026-fig2.jpg,jopr-2026-fig3.jpg,jopr-2026-fig4.jpg,jopr-2026-fig5.jpg,jopr-2026-fig6.jpg" alt="Open Journal of Psycholinguistic Research 2026 paper" %}
+  </li>
+  <li>
     <div class="publication-text">Wildt, E., <strong>Singh, A.</strong>, &amp; Rohlfing, K.J. (2026). Infants' individual sensitivity to saliency shapes early word learning in social interaction. <em>Acta Psychologica</em>. <a href="https://doi.org/10.1016/j.actpsy.2026.106977" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.actpsy.2026.106977</a></div>
     {% include publication-figures.html href="https://doi.org/10.1016/j.actpsy.2026.106977" figures="acta-2026-fig2.jpg,acta-2026-fig4.jpg,acta-2026-fig5.jpg,acta_plot_saliency.jpg,acta_plot_slopes.jpg" alt="Open Acta Psychologica 2026 paper" %}
   </li>
@@ -22,9 +26,6 @@ de_url: /de/publications/
   <li>
     <div class="publication-text">Groß, A., <strong>Singh, A.</strong>, Banh, N. C., Richter, B., Scharlau, I., Rohlfing, K. J., &amp; Wrede, B. (2023). Scaffolding the human partner by contrastive guidance in an explanatory human-robot dialogue. <em>Frontiers in Robotics and AI</em>, 10. <a href="https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract" target="_blank" rel="noopener noreferrer">https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract</a></div>
     {% include publication-figures.html href="https://www.frontiersin.org/articles/10.3389/frobt.2023.1236184/abstract" figures="frontiers-2023-fig1.jpg,frontiers-2023-fig8.jpg,frontiers-2023-fig9.jpg" alt="Open Frontiers in Robotics and AI 2023 paper" %}
-  </li>
-  <li>
-    <div class="publication-text"><strong>Singh, A.</strong> and Rohlfing, K.J. (2026), A Method for Studying Online Language--Vision Interplay in Human--Robot Interaction. <em>Journal of Psycholinguistic Research</em> (under review)</div>
   </li>
 </ul>
 
