@@ -26,7 +26,7 @@ author:
   avatar           : "profile_picture_updated.jpg"
   #name             : "Amit Singh"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral candidate at Paderborn University"
+  bio              : 'Postdoctoral researcher at SFB TRR318 "Constructing Explainability"'
   location         : "Zukunftsmeile 2, Paderborn, Germany"
   #employer         : "Paderborn University"
   uri              : # URL

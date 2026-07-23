@@ -12,7 +12,7 @@ redirect_from:
 
 I am a researcher at [SFB TRR318 "Constructing Explainability"](https://trr318.uni-paderborn.de){:target="_blank" rel="noopener noreferrer"}, a Collaborative Research Center at Paderborn University. I am working in [Project A05](https://trr318.uni-paderborn.de/en/projects/a05){:target="_blank" rel="noopener noreferrer"} alongside its principal investigators, Prof. Dr. Katharina J. Rohlfing and Prof. Dr.-Ing. Britta Wrede.
 
-During my PhD, I worked on extending contrastive explanations, a fundamental method in explainable AI, from one-shot decision settings to interactive human–AI explanatory tasks. This work combines insights from psycholinguistics, computational linguistics, cognitive science, explainable AI, and human–robot interaction.
+In my PhD, I worked on extending contrastive explanations, a fundamental method in explainable AI, from one-shot decision settings to interactive human–AI explanatory tasks. This work combined insights from psycholinguistics, computational linguistics, cognitive science, explainable AI, and human–robot interaction.
 
 I am also interested in understanding multimodal processes in human–AI interaction and how they can contribute to generating more understandable explanations. To this end, I am currently working to bring established methods from psycholinguistics and cognitive science, such as visual-world paradigms, into [HRI and XAI research](/assets/JOPR-D-26-00014_R.pdf){:target="_blank" rel="noopener noreferrer"} to investigate language-vision interaction in real time during human–AI explanation tasks.
 
