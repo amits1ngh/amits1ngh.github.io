@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Amit Singh"
+title: "About Me"
 author_profile: true
 lang: en
 en_url: /
@@ -9,7 +9,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
 I am a postdoctoral researcher at [SFB TRR318 "Constructing Explainability"](https://trr318.uni-paderborn.de){:target="_blank" rel="noopener noreferrer"}, a Collaborative Research Center at Paderborn University and Bielefeld University. I am working in [Project A05](https://trr318.uni-paderborn.de/en/projects/a05){:target="_blank" rel="noopener noreferrer"} alongside its PI, Prof. Dr. Katharina J. Rohlfing and Prof. Dr.-Ing. Britta Wrede.
 
 Before joining the SFB, I spent amazing year as a Junior Research Fellow (JRF) at the Indian Institute of Technology Guwahati. Previously, I completed my Master’s in Cognitive Science and Bachelor’s in German Language and Linguistics at JNU, New Delhi.
