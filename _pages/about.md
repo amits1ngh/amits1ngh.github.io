@@ -27,7 +27,6 @@ Currently, my research interests include:
 
 
 ## Updates
-
 ### 🎉 Paper accepted for publication in the *Journal of Psycholinguistic Research*
 Our paper *A Method for Studying Online Language–Vision Interplay in Human–Robot Interaction* has been accepted for publication in the *Journal of Psycholinguistic Research*. [Accepted manuscript](/assets/JOPR-D-26-00014_R.pdf){:target="_blank" rel="noopener noreferrer"}
 
