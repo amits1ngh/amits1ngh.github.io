@@ -19,7 +19,7 @@ In my PhD, I worked on developing a [framework of contrastive guidance](https://
 
 Currently, my research interests include:
 
-- **Dialogue Modelling:** I am interested in deriving computational and cognitive models of [scaffolding](/assets/Singh_etal_ICDL2026.pdf){:target="_blank" rel="noopener noreferrer"} from human–human explanatory settings. To do so, I work with multimodal interaction analysis, psycholinguistic experimentation, foundation models, embeddings, and Bayesian hierarchical models.
+- **Dialogue Modelling:** I am interested in deriving computational and cognitive models of [scaffolding](/assets/Singh_etal_ICDL2026.pdf){:target="_blank" rel="noopener noreferrer"} from human–human explanatory settings. To do so, I work with multimodal interaction analysis, psycholinguistic experimentation, foundation models, embedding architectures (e.g., BERT), and Bayesian hierarchical models (RStan).
 
 - **Social Explainable AI:** I am interested in investigating and modelling dialogical processes in human–human explanatory setups to derive and test desiderata of successful explanations for interactive systems. Along this line, I have investigated [contrastive guidance](https://doi.org/10.1111/cogs.70096){:target="_blank" rel="noopener noreferrer"} and its implementation in [human–robot explanatory settings](https://doi.org/10.1109/ICDL63968.2025.11204385){:target="_blank" rel="noopener noreferrer"}.
 
