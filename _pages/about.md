@@ -14,15 +14,16 @@ I am a postdoctoral researcher at [SFB TRR318 "Constructing Explainability"](htt
 Before joining the SFB, I spent amazing year as a Junior Research Fellow (JRF) at the Indian Institute of Technology Guwahati. Previously, I completed my Master’s in Cognitive Science and Bachelor’s in German Language and Linguistics at JNU, New Delhi.
 
 ## Research Interests
-Most of my research is motivated by interdisciplinary approaches in [cognitive science](https://plato.stanford.edu/entries/cognitive-science/) and [psycholinguistics](https://oecs.mit.edu/pub/y1uhdz0y/). In my PhD, I worked to develop a [framework of contrastive guidance](https://digital.ub.uni-paderborn.de/doi/10.17619/UNIPB/1-2662) by extending the idea of contrastive explanations, a popular method in explainable AI, from unidirectional settings to interactive human–AI explanatory tasks.
+Most of my research is motivated by interdisciplinary approaches in [cognitive science](https://plato.stanford.edu/entries/cognitive-science/){:target="_blank" rel="noopener noreferrer"} and [psycholinguistics](https://oecs.mit.edu/pub/y1uhdz0y/){:target="_blank" rel="noopener noreferrer"}. 
+In my PhD, I worked to develop a [framework of contrastive guidance](https://digital.ub.uni-paderborn.de/doi/10.17619/UNIPB/1-2662){:target="_blank" rel="noopener noreferrer"} by extending the idea of contrastive explanations, a popular method in explainable AI, from unidirectional settings to interactive human–AI explanatory tasks.
 
 Currently, my research interests include:
 
 - **Dialogue Modelling:** I am interested in deriving computational and cognitive models of [scaffolding](/assets/Singh_etal_ICDL2026.pdf){:target="_blank" rel="noopener noreferrer"} from human–human explanatory settings. To do so, I work with foundation models, embedding architectures, and Bayesian hierarchical models.
 
-- **Explainable AI:** I am interested in investigating and modelling dialogical processes in human–human explanatory setups to derive desiderata of successful explanations, such as [contrastive guidance](https://doi.org/10.1111/cogs.70096), and test these desiderata in human–AI and [human–robot explanatory settings](https://doi.org/10.1109/ICDL63968.2025.11204385).
+- **Explainable AI:** I am interested in investigating and modelling dialogical processes in human–human explanatory setups to derive desiderata of successful explanations, such as [contrastive guidance](https://doi.org/10.1111/cogs.70096){:target="_blank" rel="noopener noreferrer"}, and test these desiderata in human–AI and [human–robot explanatory settings](https://doi.org/10.1109/ICDL63968.2025.11204385){:target="_blank" rel="noopener noreferrer"}.
 
-- **Human–Robot Interaction:** I am also interested in understanding real-time [language–vision correspondence](https://doi.org/10.1145/3686215.3689202) in human–robot explanatory setups and how it can inform XAI research. To this end, I am currently working to bring established methods from cognitive science, such as the visual-world paradigm, into [HRI research](/assets/JOPR-D-26-00014_R.pdf){:target="_blank" rel="noopener noreferrer"}.
+- **Human–Robot Interaction:** I am also interested in understanding real-time [language–vision correspondence](https://doi.org/10.1145/3686215.3689202){:target="_blank" rel="noopener noreferrer"} in human–robot explanatory setups and how it can inform XAI research. To this end, I am currently working to bring established methods from cognitive science, such as the visual-world paradigm, into [HRI research](/assets/JOPR-D-26-00014_R.pdf){:target="_blank" rel="noopener noreferrer"}.
 
 
 ## Updates
