@@ -5,9 +5,6 @@ lang: de
 en_url: /
 de_url: /de/
 ---
-
-## Über mich
-
 Ich bin Postdoktorand am [SFB TRR318 „Constructing Explainability“](https://trr318.uni-paderborn.de){:target="_blank" rel="noopener noreferrer"}, einem Sonderforschungsbereich der Universität Paderborn und der Universität Bielefeld. Ich arbeite im [Teilprojekt A05](https://trr318.uni-paderborn.de/en/projects/a05){:target="_blank" rel="noopener noreferrer"} gemeinsam mit den Projektleiterinnen Prof. Dr. Katharina J. Rohlfing und Prof. Dr.-Ing. Britta Wrede.
 
 Bevor ich zum SFB kam, verbrachte ich ein spannendes Jahr als Junior Research Fellow (JRF) am Indian Institute of Technology Guwahati. Zuvor absolvierte ich meinen Master in Cognitive Science sowie meinen Bachelor in German Language and Linguistics an der JNU in Neu-Delhi.
