@@ -17,15 +17,15 @@
     try {
       var savedTheme = localStorage.getItem("theme");
       if (!savedTheme) {
-        localStorage.setItem("theme", "dark");
+        localStorage.setItem("theme", "light");
       }
-      if ((localStorage.getItem("theme") || "dark") === "dark") {
+      if ((localStorage.getItem("theme") || "light") === "dark") {
         document.documentElement.setAttribute("data-theme", "dark");
       } else {
         document.documentElement.removeAttribute("data-theme");
       }
     } catch (e) {
-      document.documentElement.setAttribute("data-theme", "dark");
+      document.documentElement.removeAttribute("data-theme");
     }
   })();
 </script>
