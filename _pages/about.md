@@ -15,7 +15,7 @@ Before joining the SFB, I spent an amazing year as a Junior Research Fellow (JRF
 
 ## Research Interests
 Most of my research is motivated by interdisciplinary approaches in [cognitive science](https://plato.stanford.edu/entries/cognitive-science/){:target="_blank" rel="noopener noreferrer"} and [psycholinguistics](https://oecs.mit.edu/pub/y1uhdz0y/){:target="_blank" rel="noopener noreferrer"}.<br>
-In my PhD, I worked to develop a [framework of contrastive guidance](https://digital.ub.uni-paderborn.de/doi/10.17619/UNIPB/1-2662){:target="_blank" rel="noopener noreferrer"} by extending the idea of contrastive explanations, a popular method in explainable AI, from unidirectional settings to interactive human–AI explanatory tasks.
+In my PhD, I worked on developing a [framework of contrastive guidance](https://digital.ub.uni-paderborn.de/doi/10.17619/UNIPB/1-2662){:target="_blank" rel="noopener noreferrer"} by extending the idea of contrastive explanations (a popular method in explainable AI) from unidirectional settings to interactive human–AI explanatory tasks.
 
 Currently, my research interests include:
 
