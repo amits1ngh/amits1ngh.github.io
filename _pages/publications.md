@@ -12,7 +12,7 @@ de_url: /de/publications/
 
 <ul class="publication-list">
   <li>
-    <div class="publication-text"><strong>Singh, A.</strong> and Rohlfing, K.J. (2026). A Method for Studying Online Language–Vision Interplay in Human–Robot Interaction. <em>J Psycholinguist Res 55, 112</em>. <a href="https://rdcu.be/fBGkH" target="_blank" rel="noopener noreferrer"></a>https://rdcu.be/fBGkH</div>
+    <div class="publication-text"><strong>Singh, A.</strong> and Rohlfing, K.J. (2026). A Method for Studying Online Language–Vision Interplay in Human–Robot Interaction. <em>J Psycholinguist Res 55, 112</em>. <a href="https://rdcu.be/fBGkH" target="_blank" rel="noopener noreferrer">https://rdcu.be/fBGkH</a></div>
     {% include publication-figures.html href="/assets/JOPR-D-26-00014_R.pdf" figures="jopr-2026-fig1.jpg,jopr-2026-fig2.jpg,jopr-2026-fig3.jpg,jopr-2026-fig4.jpg,jopr-2026-fig5.jpg,jopr-2026-fig6.jpg" alt="Open Journal of Psycholinguistic Research 2026 paper" %}
   </li>
   <li>
