@@ -28,7 +28,7 @@ Currently, my research interests include:
 
 ## Updates
 ### 🎉 Paper accepted for publication in the *Journal of Psycholinguistic Research*
-Our paper *A Method for Studying Online Language–Vision Interplay in Human–Robot Interaction* has been accepted for publication in the *Journal of Psycholinguistic Research*. [https://rdcu.be/fBGkH](https://rdcu.be/fBGkH){:target="_blank" rel="noopener noreferrer"}
+Our paper *A Methodological Framework for Studying Online Language–Vision Interplay in Human–Robot Interaction* has been accepted for publication in the *Journal of Psycholinguistic Research*. [https://rdcu.be/fBGkH](https://rdcu.be/fBGkH){:target="_blank" rel="noopener noreferrer"}
 
 ### 🎉 PhD successfully defended 🎓
 I successfully defended my doctoral dissertation, *From Negation to Contrast and Context: A Framework for Contrastive Guidance of Actions in Interaction*. [Link](https://kw.uni-paderborn.de/en/institut-fuer-germanistik-und-vergleichende-literaturwissenschaft/germanistische-und-allgemeine-sprachwissenschaft/rohlfing/nachricht/erfolgreiche-verteidigung-der-dissertation-2){:target="_blank" rel="noopener noreferrer"}
