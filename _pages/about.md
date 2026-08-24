@@ -23,12 +23,12 @@ Currently, my research interests include:
 
 - **Social Explainable AI:** This line of research is inspired by recent work in the TRR on [sXAI](https://link.springer.com/book/10.1007/978-981-96-5290-7). I am interested in investigating and modelling dialogical processes in human–human explanatory setups to derive and test desiderata of successful explanations for interactive systems. Along this line, I have investigated [contrastive guidance](https://doi.org/10.1111/cogs.70096){:target="_blank" rel="noopener noreferrer"} and its implementation in [human–robot explanatory settings](https://doi.org/10.1109/ICDL63968.2025.11204385){:target="_blank" rel="noopener noreferrer"}.
 
-- **Human–Robot Interaction:** I am also interested in understanding real-time [language–vision correspondence](https://doi.org/10.1145/3686215.3689202){:target="_blank" rel="noopener noreferrer"} in human–robot explanatory setups and how it can inform XAI research. To this end, I am currently working to bring established methods from cognitive science, such as the visual-world paradigm, into [HRI research](/assets/JOPR-D-26-00014_R.pdf){:target="_blank" rel="noopener noreferrer"}.
+- **Human–Robot Interaction:** I am also interested in understanding real-time [language–vision correspondence](https://doi.org/10.1145/3686215.3689202){:target="_blank" rel="noopener noreferrer"} in human–robot explanatory setups and how it can inform XAI research. To this end, I am currently working to bring established methods from cognitive science, such as the visual-world paradigm, into [HRI research](https://rdcu.be/fBGkH){:target="_blank" rel="noopener noreferrer"}.
 
 
 ## Updates
 ### 🎉 Paper accepted for publication in the *Journal of Psycholinguistic Research*
-Our paper *A Method for Studying Online Language–Vision Interplay in Human–Robot Interaction* has been accepted for publication in the *Journal of Psycholinguistic Research*. [Accepted manuscript](/assets/JOPR-D-26-00014_R.pdf){:target="_blank" rel="noopener noreferrer"}
+Our paper *A Method for Studying Online Language–Vision Interplay in Human–Robot Interaction* has been accepted for publication in the *Journal of Psycholinguistic Research*. [https://rdcu.be/fBGkH](https://rdcu.be/fBGkH){:target="_blank" rel="noopener noreferrer"}
 
 ### 🎉 PhD successfully defended 🎓
 I successfully defended my doctoral dissertation, *From Negation to Contrast and Context: A Framework for Contrastive Guidance of Actions in Interaction*. [Link](https://kw.uni-paderborn.de/en/institut-fuer-germanistik-und-vergleichende-literaturwissenschaft/germanistische-und-allgemeine-sprachwissenschaft/rohlfing/nachricht/erfolgreiche-verteidigung-der-dissertation-2){:target="_blank" rel="noopener noreferrer"}
