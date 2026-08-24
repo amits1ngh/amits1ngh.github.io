@@ -11,7 +11,7 @@ redirect_from:
 ---
 I am a postdoctoral researcher at [SFB TRR318 "Constructing Explainability"](https://trr318.uni-paderborn.de){:target="_blank" rel="noopener noreferrer"}, a Collaborative Research Center at Paderborn University and Bielefeld University. I am working in [Project A05](https://trr318.uni-paderborn.de/en/projects/a05){:target="_blank" rel="noopener noreferrer"} alongside its PI, Prof. Dr. Katharina J. Rohlfing and Prof. Dr.-Ing. Britta Wrede.
 
-Before joining SFB, I spent an amazing year as a Junior Research Fellow (JRF) at the Indian Institute of Technology Guwahati. Previously, I completed my Master’s in Cognitive Science and Bachelor’s in German Language and Linguistics at JNU, New Delhi.
+Before joining SFB, I spent a wonderful year as a Junior Research Fellow (JRF) at the Indian Institute of Technology Guwahati. Previously, I completed my Master’s in Cognitive Science and Bachelor’s in German Language and Linguistics at JNU, New Delhi.
 
 ## Research Interests
 Most of my research is motivated by interdisciplinary approaches in [cognitive science](https://plato.stanford.edu/entries/cognitive-science/){:target="_blank" rel="noopener noreferrer"} and [psycholinguistics](https://oecs.mit.edu/pub/y1uhdz0y/){:target="_blank" rel="noopener noreferrer"}.<br>
