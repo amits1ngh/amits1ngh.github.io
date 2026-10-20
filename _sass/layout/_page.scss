@@ -100,6 +100,54 @@
     font-size: $type-size-6;
   }
 
+  .updates-scroll {
+    /* Keep roughly two to three updates visible at a time. */
+    max-height: 24rem;
+    overflow-y: auto;
+    overscroll-behavior-y: contain;
+    scrollbar-gutter: stable;
+    scrollbar-color: var(--global-text-color-light) var(--global-bg-color);
+    margin-bottom: 1.5em;
+    padding: 1rem;
+    border: 1px solid var(--global-border-color);
+    border-radius: 4px;
+    overflow-wrap: anywhere;
+
+    &:focus-visible {
+      outline: 2px solid var(--global-link-color);
+      outline-offset: 3px;
+    }
+
+    > :first-child {
+      margin-top: 0;
+    }
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+
+    &::-webkit-scrollbar {
+      width: 10px;
+    }
+
+    &::-webkit-scrollbar-track {
+      background: var(--global-bg-color);
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: var(--global-text-color-light);
+      border: 2px solid var(--global-bg-color);
+      border-radius: 5px;
+    }
+
+    @media print {
+      max-height: none;
+      overflow: visible;
+      padding: 0;
+      border: 0;
+    }
+  }
+
   .news-thumbnail {
     display: block;
     width: min(100%, 16rem);

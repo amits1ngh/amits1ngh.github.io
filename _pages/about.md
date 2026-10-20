@@ -27,10 +27,16 @@ Currently, my research interests include:
 
 
 ## Updates
-### Presented our work at IEEE ICDL Conference, Kyoto, Japan  *A Divergence Model of Scaffolding in Dialogue via Negation*. [Link](https://lnkd.in/p/gJwFCYBH){:target="_blank" rel="noopener noreferrer"}
+
+<div class="updates-scroll" role="region" aria-labelledby="updates" tabindex="0" markdown="1">
+
+### Presented our work at IEEE ICDL Conference, Kyoto, Japan  *Title : A Divergence Model of Scaffolding in Dialogue via Negation*. [Read more](https://lnkd.in/p/gJwFCYBH){:target="_blank" rel="noopener noreferrer"}
+
+### Call for papers: 4th TRR 318 Conference
+*Scaffolding Social XAI*, Paderborn. **Submission deadline: 1 November.** [Submission details](https://trr318.uni-paderborn.de/en/news-item/call-for-abstracts-submit-your-contribution-to-the-4th-trr-318-conference-now){:target="_blank" rel="noopener noreferrer"}
 
 ### 🎉 Paper accepted for publication in the *Journal of Psycholinguistic Research*
-Our paper *A Methodological Framework for Studying Online Language–Vision Interplay in Human–Robot Interaction* has been accepted for publication in the *Journal of Psycholinguistic Research*. [https://rdcu.be/fBGkH](https://rdcu.be/fBGkH){:target="_blank" rel="noopener noreferrer"}
+Our paper *A Methodological Framework for Studying Online Language–Vision Interplay in Human–Robot Interaction* has been accepted for publication in the *Journal of Psycholinguistic Research, Springer Nature*. [https://rdcu.be/fBGkH](https://rdcu.be/fBGkH){:target="_blank" rel="noopener noreferrer"}
 
 ### 🎉 PhD successfully defended 🎓
 I successfully defended my doctoral dissertation, *From Negation to Contrast and Context: A Framework for Contrastive Guidance of Actions in Interaction*. [Link](https://kw.uni-paderborn.de/en/institut-fuer-germanistik-und-vergleichende-literaturwissenschaft/germanistische-und-allgemeine-sprachwissenschaft/rohlfing/nachricht/erfolgreiche-verteidigung-der-dissertation-2){:target="_blank" rel="noopener noreferrer"}
@@ -49,3 +55,5 @@ I recently presented my work at TeaP 2026 in Tübingen. [Read the abstract](http
 
 ### IEEE ICDL 2025, Prague
 At IEEE ICDL 2025 in Prague, I gave a talk on language-vision interaction in human-robot interaction. [Watch the talk on YouTube](https://www.youtube.com/watch?v=h2ZzJB7nyt0){:target="_blank" rel="noopener noreferrer"}
+
+</div>
