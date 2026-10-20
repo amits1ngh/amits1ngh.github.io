@@ -27,6 +27,8 @@ Currently, my research interests include:
 
 
 ## Updates
+### Presented our work at IEEE ICDL Conference, Kyoto, Japan  *A Divergence Model of Scaffolding in Dialogue via Negation*. [Link](https://lnkd.in/p/gJwFCYBH){:target="_blank" rel="noopener noreferrer"}
+
 ### 🎉 Paper accepted for publication in the *Journal of Psycholinguistic Research*
 Our paper *A Methodological Framework for Studying Online Language–Vision Interplay in Human–Robot Interaction* has been accepted for publication in the *Journal of Psycholinguistic Research*. [https://rdcu.be/fBGkH](https://rdcu.be/fBGkH){:target="_blank" rel="noopener noreferrer"}
 
